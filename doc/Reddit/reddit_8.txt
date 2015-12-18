@@ -1,0 +1,2593 @@
+﻿https://www.reddit.com/r/todayilearned/comments/3sazgb/til_bill_gates_wrote_his_schools_computer_program/
+-------------------------------------------------------------
+
+this post was submitted on 10 Nov 2015
+4,033
+(90% upvoted)
+shortlink:  
+https://redd.it/3sazgb
+Submit a new link
+todayilearned
+unsubscribe
+9,889,443
+11,590 users here now
+Show my flair on this subreddit. It looks like:
+_ark217
+NEW TO REDDIT? CLICK HERE!
+
+You learn something new every day; what did you learn today?
+Submit interesting and specific facts that you just found out (not broad information you looked up, TodayILearned is not /r/wikipedia).
+Posting rules
+
+Submissions must be verifiable. Please link directly to a reliable source that supports every claim in your post title. Images alone do not count as valid references. Videos are fine so long as they come from reputable sources (e.g. BBC, Discovery, etc).
+No personal opinions, anecdotes or subjective statements (e.g "TIL xyz is a great movie").
+No news or recent sources. News and any sources (blog, article, press release, video, etc.) more recent than two months are not allowed.
+No submissions regarding or related to the following
+Recent politics or police misconduct
+Inflammatory submissions relating to religion/race/gender
+No misleading claims. Posts that omit essential information, or present unrelated facts in a way that suggest a connection will be removed.
+Rephrase your post title if the following are not met:
+Titles must begin with "TIL ..."
+Make them descriptive, concise and specific (e.g. not "TIL something interesting about bacon").
+Titles must be able to stand on their own without requiring readers to click on a link. Starting your title with a why/what/who/where/how modifier should be unnecessary.*
+"TIL about ..." and other broad posts don't belong on TIL. Try /r/Wikipedia, etc. instead, or be more specific (and avoid the word "about").
+"TIL how to ..." posts belong on /r/HowTo.
+No submissions related to the usage, existence or features of specific software/websites (e.g. "TIL you can click on widgets in WidgetMaker 1.22").
+All NSFW links must be tagged (including comments).
+Please see the wiki for more detailed explanations of the rules.
+
+(Why we need rules)
+Additional info
+
+If your post does not appear in the new queue and you think it meets the above rules, please contact the moderators (include a link to your reddit.com post, not your story).
+Please report spam, inaccurate or otherwise inappropriate posts by messaging the moderators, as this helps us remove them more promptly!
+More information available on the TIL FAQ and wiki.
+Weekly point ranking
+
+Looking for more depth?
+You can find it here at: /r/DepthHub
+Etiquette
+
+We ask that you please do the following:
+avoid mobile versions of websites (e.g. m.wikipedia.org)
+link to the appropriate heading when referencing an article (particularly on Wikipedia)
+link to the appropriate start time when referencing videos (e.g. on YouTube)
+add [PDF] or [NSFW] tags to your posts, as necessary.
+Please avoid reposting TILs that have already made the front page in the past
+Please also read the site-wide Reddiquette.
+You are loved.
+a community for 6 years
+
+message the moderators
+
+TIL Bill Gates wrote his school's computer program for scheduling students in their classes. He edited it so he would end up sitting with female students. (businessinsider.com)
+submitted 21 hours ago by Deadpooldan
+sorted by: best
+
+save
+[–]ronfromcny 1242 points 20 hours ago 
+Yeah, like that's going to help high school-Bill Gates.
+
+[–]iliketurtlesdurr 369 points 18 hours ago 
+sad but true
+
+[–]Kaschnatze 133 points 17 hours ago 
+I'm your dream, mind astray
+
+[–]genericname1111 60 points 16 hours ago 
+I'm your eyes while you're away
+
+[–]thesecretpotato69 47 points 16 hours ago 
+YOU KNOW ITS SAD BUT TRUUUUUEEEEE
+
+[–]iExplicit 32 points 16 hours ago 
+SAD BUT TRUUUEEE
+
+[–]Frugal_Octopus 30 points 15 hours ago 
+Darkness.
+Imprisoning me.
+All that I see.
+Absolute horror.
+Wait... Fuck.
+
+[–]dranokami 15 points 15 hours ago 
+Bargains!
+Imprisoning me!
+All that I see!
+Absolute savings!
+
+[–]Frugal_Octopus 7 points 15 hours ago 
+God how long has it been.
+Just checked, 2008. Fuck dude almost ten years.
+
+[–]PM_ME_UR_UNWIPED_BUM 13 points 15 hours ago 
+That was just your life.
+
+continue this thread
+[–]cmatute 1 point 14 hours ago 
+I cannot live
+I cannot die
+Trapped in myself
+...wat
+
+[–]iShootDope_AmA 1 point 11 hours ago 
+Johnny Got His Gun
+
+[–]CowardFool 1 point 15 hours ago 
+My mind has an ashtray?
+
+[–]Second_Foundationeer 93 points 15 hours ago 
+The more you see someone, the more attractive they begin to look..
+
+[–]Gsanta1 42 points 14 hours ago 
+I've been looking at my reflection for years...
+
+[–]mloof 3 points 13 hours ago 
+When will my reflection show, who I am... insiiiiiiide...
+
+[–]rarely-sarcastic 1 point 8 hours ago 
+Hey at least you get to see a dog everyday.
+
+[–]rarely-sarcastic 1 point 8 hours ago 
+Hey at least you get to see a dog everyday.
+
+[–]TheLolWhatsAUsername 48 points 15 hours ago 
+Now that I think about it, that's rather true...
+
+[–]Second_Foundationeer 19 points 14 hours ago 
+:|
+That's my winning method, yo!
+
+[–]TheLolWhatsAUsername 7 points 14 hours ago 
+I oughtta implement this method and bug the shit out of everyone I like! Thanks for the info!
+
+[–]DanielEGVi 2 points 11 hours ago 
+For a moment there I thought we were talking about programming.
+
+[–][deleted] 13 hours ago 
+[deleted]
+[–]Aaahh_real_people 9 points 14 hours ago 
+Ah, the George costanza approach
+
+[–]BELLI_DEVS 2 points 14 hours ago 
+I would rather say : the more you see someone, the more average they look.
+
+[–]notMyRealName420 2 points 13 hours ago 
+But average is attractive.
+Google image: average of faces
+
+[–]iglyboop 2 points 10 hours ago 
+Nah, see, the individual faces are usually more unattractive than the physical average of the complexion's features. The average is often more attractive because it doesn't contain any exaggerated features that are unique to a person. Melding the different faces nullifies these differences and you have a result that is worth more than the sum of its parts.
+
+[–]BELLI_DEVS 1 point 13 hours ago 
+The average of faces is attractive because it removes defaults. The opposite happens when you see someone attractive in real life for a long time : you start seeing all their defaults.
+
+[–]notMyRealName420 1 point 12 hours ago 
+What do you mean?
+
+[–]BELLI_DEVS 1 point 12 hours ago 
+By taking the average of faces, the default of each face fades out. Which makes the face attractive.
+When meeting someone attractive, you don't see their default. But with time, you notice that small scar. Those slightly crooked teeth. The asymmetry of the body. Anything that makes the person not perfect. And then you start seeing them as just another human being and you find them average.
+
+[–]straechav 3 points 9 hours ago* 
+Dude. I think you mean faults. Because as far as I understand English, default means something completely different.
+
+[–]BELLI_DEVS 1 point 3 hours ago 
+Yes, sorry. In French they're the same word.
+
+[–]Gehalgod 1 point 2 hours ago 
+He may have just mixed up "defect" and "fault" to form "default".
+
+[–]Tora-B 1 point 7 hours ago 
+I think the word you're looking for is "defect".
+
+[–]BELLI_DEVS 1 point 3 hours ago 
+Right, sorry. In French they're the same word.
+
+[–]Second_Foundationeer 1 point 11 hours ago 
+That is a good point. It could be that I see more ugly people in general and they become more beautiful?
+
+[–]tittywagon 2 points 14 hours ago 
+That's why I'm a 11/10 in my book, but where are all the supermodels!
+
+[–]canopey 2 points 13 hours ago 
+were you being sarcastic ..?
+
+[–]Second_Foundationeer 1 point 11 hours ago 
+No, but I may have phrased that incorrectly..
+https://www.psychologytoday.com/blog/sense-and-sensitivity/201302/the-familiarity-principle-attraction
+
+[–][deleted] 8 hours ago 
+[deleted]
+[–]JesseJaymz 1 point 13 hours ago 
+Unless they're unattractive
+
+[–]Second_Foundationeer 1 point 11 hours ago 
+Seriously though, even if they're unattractive, they will become attractive (maybe marginally).
+
+[–]Whiskey-Tango-Hotel 1 point 10 hours ago 
+NNNNNNNNOPE.
+
+[–]JohnMiltonJamesJoyce [score hidden] 32 minutes ago 
+"Co-Stan-za"
+
+[–]Dent18 49 points 15 hours ago 
+me irl
+minus the money and skills of course
+
+[–][deleted] 15 hours ago 
+[deleted]
+[–]Roller_ball 46 points 15 hours ago 
+Maybe he didn't do it to get girls, but to avoid bullies. I assume 1970's bullies were the worst and did things like swirlies and stuffing nerds into lockers.
+
+[–]Onceahat 28 points 14 hours ago 
+No. Trust me. He did it for the girls.
+
+[–]kotkaiser 22 points 14 hours ago 
+Yeah, the best way to deal with bullies is definitely to hide behind girls. That will totally make them stop.
+
+[–]yunivor 10 points 13 hours ago 
+Well, if he's helping the girls with their math homework they can just tell the bullies that there'll be no kissin if he's targeted, right?
+
+[–]Artonkn 2 points 3 hours ago 
+That's not how people work
+
+[–]Juan_Kagawa 1 point 12 hours ago 
+Did kids stop doing swirlies and stuffing kids into lockers?
+
+[–]Tuaam_Is_Back 3 points 11 hours ago 
+I don't see it happen in my school. I guess it's more of a urban legend?
+
+[–]MittensRmoney 1 point 8 hours ago 
+It's funny how reddit is such a men's rights circlejerk that you guys can't imagine there are boys who actually like girls.
+
+[–]Jackslacking 5 points 13 hours ago 
+more fap material at least
+
+[–]fsocieties 9 points 13 hours ago 
+He went to a high achieving private high school. I am sure some of the girls there were interested in nerds.
+
+[–]applebottomdude 5 points 15 hours ago 
+His dad did have a lot of money already so it's not far fetched.
+
+[–]jazaniac 2 points 13 hours ago 
+Hey baby, if you invest in me, I'll return millions.
+
+[–]methamp 2 points 11 hours ago 
+Yeah, like that's going to help high school-Bill Gates.
+I'm your density
+
+[–]rareanimal 2 points 5 hours ago 
+Doesent matter now because he got those billionzzzz
+
+[–]Thendofreason 1 point 11 hours ago 
+I'd rather be in a Class with a dozen pretty girls and have it bare no fruits than be in a class with a bunch of assholes. If he gets picked on in that class, he literally can only blame himself for his choices
+
+[–]Mirved 1 point 4 hours ago 
+I would prefer sitting in a class with hot chicks over a class full of dudes. Even if i dont have a chance with any of them.
+
+[–]Scaevus 1 point 13 hours ago 
+The really smart girls end up with the future billionaires. There's very little future in humping high school jocks in the back of station wagons.
+
+[–]Throwaway-tan 1 point 12 hours ago 
+Unless they go pro.
+
+[–]ObLaDi 3256 points 21 hours ago 
+Don't hate the playa, hate the code.
+
+[–]Homer69 2001 points 19 hours ago 
+Sub GettingPoon ()
+If "Bill Gates" Then
+sit.nexttohotties
+End If
+End Sub
+
+[–]featherfooted 683 points 16 hours ago 
+Is that Visual Basic, and could you hack this killer's IP address for me?
+
+[–]s_SoNick 436 points 16 hours ago 
+Nah, he needs to write a GUI for that
+
+[–]modaman123 129 points 16 hours ago 
+Click on pi at the bottom of the page to load GUI
+
+[–]PM_ME_KIND_THOUGHTS 74 points 16 hours ago 
+This whole thread is irrational.
+
+[–]Hellman109 71 points 15 hours ago 
+Two people used one keyboard to write that out!
+
+[–]underwatr_cheestrain 28 points 15 hours ago 
+Like this? https://www.youtube.com/watch?v=u8qgehH3kEQ
+
+[–]fierceandtiny 23 points 15 hours ago 
+I play this video now and then for my software developer fiancé just to watch him cringe. You make your own fun.
+
+[–]Deagor 26 points 14 hours ago* 
+Show him this https://www.youtube.com/watch?v=BKorP55Aqvg then, though you might get more than a cringe from him
+
+continue this thread
+[–]TheHamPirate 3 points 14 hours ago 
+Judging by my own reaction, I would assume this causes him a lot of pain.
+
+continue this thread
+[–]DracoAzuleAA 5 points 14 hours ago 
+I thought it was gonna be that one where she hacks an IP with a VB GUI lol
+
+[–]dryerlintcompelsyou 3 points 15 hours ago 
+Goddamn it, I liked that show
+
+[–]snidleewhiplash 16 points 14 hours ago 
+if it makes you feel any better I heard there was a bet between the writers of several shows to see who can put the stupidest computer scene in an episode.
+I think NCIS won.
+
+continue this thread
+[–]adrian5b 2 points 13 hours ago 
+I write html, this is what hacking looks like, for realsies.
+
+[–]jedipiper 1 point 13 hours ago 
+I want to throw up now.
+
+[–]44ml 1 point 2 hours ago 
+Just unplug the God damn thing! Jesus Christ!
+
+[–]JuanDiegoMontoya 1 point 2 hours ago 
+ISOLATE THE NODE
+
+[–]BarfReali 8 points 15 hours ago 
+Ah the "Mozart's Ghost" trick
+
+[–]1138311 7 points 16 hours ago 
+We were just going over our specs with our new CMS company to figure out where to put the link for accessing the backend editor. I suggested a pi in the lower right hand corner but was overruled. Apparently most places use the copyright symbol. Dorks.
+
+[–]Hellman109 6 points 15 hours ago 
+Or just /admin or something logical and not linked to like you're sandra bullick!
+
+[–]ErraticDragon6 3 points 14 hours ago 
+I'm pretty sure you need to hold Control & Alt before clicking.
+
+[–]silvester23 2 points 4 hours ago 
+Yes, you do. I gotta admit, I love that movie.
+
+[–]Lolzera 17 points 15 hours ago 
+Um... Sir I believe you mean a GUI Interface!
+
+[–]Blues2112 9 points 15 hours ago 
+Hang on...I need to go to the ATM Machine!
+
+[–]Legal_Rampage 3 points 14 hours ago 
+Do you remember your PIN Number?
+
+[–]anakusis 2 points 14 hours ago 
+Nope just my old VIN number.
+
+[–]underbog 3 points 13 hours ago 
+Gonna look after that as ASAP as possible.
+
+[–]Legal_Rampage 1 point 5 hours ago 
+It's been 8 hours. RIP in peace.
+
+[–]Mega_Mez 1 point 14 hours ago 
+Never go atm
+
+[–]gentlemandinosaur 1 point an hour ago 
+You need to go to the automatic teller machine machine?
+
+[–]Blues2112 [score hidden] 8 minutes ago 
+Before I use the Graphical User Interface Interface...yes!
+
+[–]Noohandle 1 point 15 hours ago 
+No, a graphical user gui interface
+
+[–]Eternal_Pickles 8 points 16 hours ago 
+/r/itsaunixsystem
+
+[–]burgeoning_philosoph 1 point 13 hours ago 
+/r/itsanmsdossystem
+
+[–]HalfOfAKebab 7 points 15 hours ago 
+/r/itsaunixsystem
+
+[–]uncreativemynameis 2 points 15 hours ago 
+Hello?!?! He said Visual Basic!
+
+[–]420smokeweed 110 points 16 hours ago 
+Is that Visual Basic, and could you hack this killer's IP address for me?
+I got the IP right here 192.168.1.1
+
+[–]Csoltis 88 points 15 hours ago 
+shit, the killer is IN the house.
+hack the planet yo.
+
+[–]Noohandle 5 points 14 hours ago 
+They're trashing our rights!
+
+[–]learnyouahaskell 5 points 13 hours ago 
+No he's in your router.
+127.0.0.1
+
+[–]GENITAL_MUTILATOR 3 points 13 hours ago 
+HACK THE PLANEEEET!!!! THEY'RE TRASHING OUR RIGHTS!!!
+
+[–]Csoltis 1 point 11 hours ago 
+Trashing!!! Trashing!!
+
+[–]itonlygetsworse 4 points 15 hours ago 
+192.168.1.1
+More like in your router. Better shut that shit down ASAP.
+
+[–]Csoltis 3 points 15 hours ago 
+http://bash.org/?5273
+
+[–]Csoltis 1 point 13 hours ago 
+Routing is a gateway to a new dimensionnnnnn
+
+[–]golergka 54 points 16 hours ago 
+Nah, it's 127.0.0.1
+
+[–]yelirbear 67 points 16 hours ago 
+I'll start a DDOS on 127.0.0.1 and tell you how it goes
+
+[–]laptopdude90 66 points 16 hours ago 
+Posted 26 minutes ago
+rip
+
+[–]Americool 15 points 15 hours ago 
+rip in peace
+
+[–]droomph 1 point 13 hours ago 
+If it's Comcast or Time Warner it probably was gonna happen anyways
+
+[–]superlulz404 2 points 14 hours ago 
+Fire up that LOIC
+
+[–]trlababalan 1 point 13 hours ago 
+MS DDOS
+
+[–]--lolwutroflwaffle-- 3 points 14 hours ago 
+Sir, that's a loopback address. It appears he's fuzzing the detection scheme and scrambling the GET requests to make it look like it's coming from inside our facility. We have to perform a sequel injection to re-construct the UDP packets.
+
+[–]Burnaby1 1 point 10 hours ago 
+There's no time! He's sending SSH packets to override the modem and decode our tcp stream! It's only a matter of time until our whole PSTN proxy crashes.
+
+[–]inthyface 1 point 15 hours ago 
+You will be routered to the killer now.
+
+[–]finnfinn62 1 point 15 hours ago 
+I don't get it, is this for somewhere important?
+
+[–]lnava 1 point 13 hours ago 
+It's the first IP address handed out by a typical router. Your whole network typically shares a single external IP, and ask of the request are passed through the router. The router gives every computer a local IP address (creating a mini internet inside your home). The first computer you hook up to the router is usually given 192.168.1.1 as it's "mini-internet" address
+
+[–]finnfinn62 2 points 13 hours ago 
+Oh thanks
+
+[–]darthn3ss 1 point 14 hours ago 
+no no
+256.400.1039.987
+
+[–]DangerPay 1 point 14 hours ago 
+http://imgur.com/gallery/himZD0M
+
+[–]ChristoferRudd 1 point 16 hours ago 
+Scream plot.
+
+[–]Monteze 16 points 16 hours ago* 
+I can, but if you need it now I gotta overclock the RAM. Can't do that too long or else it'll overheat, so quick hook up this extra keyboard so we can type in the hack-code quicker. If we're lucky we can get this guy.
+
+[–]nathreed 12 points 15 hours ago 
+Instead of overclocking the ram, why don't you just download more?
+
+[–]Monteze 8 points 15 hours ago 
+Damn it professor, in English!
+
+[–]pazoned 1 point 14 hours ago 
+Like this guy https://youtu.be/rfRDwMh1Ht8
+
+[–]proboardslolv3 20 points 16 hours ago 
+looks like quickbasic, yo
+but
+If "Bill Gates" Then
+Will either return true (yes, it's a nonzero) or false (No, it's an abstract type), but it won't do so based on whether or not the student is bill gates
+
+[–]deesmutts88 1 point 15 hours ago 
+I feel like I've stumbled in to a thread that's in a different language.
+
+[–]initramfs 2 points 15 hours ago 
+That is quite easy, just follow this guide.
+original link was taken down so I only got the archive.org link
+
+[–]SilasTheVirous 1 point 14 hours ago 
+Only if you work the other half of the keyboard.
+
+[–]CaptainSnazzypants 1 point 13 hours ago 
+Their IP address is 192.168.1.6354. Have at him!
+
+[–]SynesthesiaBruh 1 point 11 hours ago 
+Aware as fuck, m(9-1)
+
+[–]shakawkaw0001 1 point 8 hours ago 
+So meta
+
+[–]backsing 43 points 15 hours ago 
+add a spaghetti code.
+GOTO 1
+
+[–]I_Like_Spaghetti 56 points 15 hours ago 
+(╯ಠ_ಠ）╯︵ ┻━┻
+
+[–]PleaseRespectTablesBanned 85 points 15 hours ago 
+┬─┬ノ(ಠ_ಠノ)
+
+[–]FucksWithTables 59 points 15 hours ago 
+(╯ಠ益ಠ)╯︵ ┻━┻
+
+[–]PleaseRespectTablesBanned 55 points 15 hours ago 
+┬─┬ノ(ಠ_ಠノ)
+
+[–]harmsc12 52 points 15 hours ago 
+HULK SMASH PUNY TABLES!
+    ┻━┻          ┻━┻
+         \\\       ///
+┻━┻==            ==┻━┻
+ ┻━┻︵L(ಠ益ಠ)╯︵┻━┻
+
+[–]taejo12 1 point 4 hours ago 
+┬─┬ ┬─┬ ┬─┬ ┬─┬ ┬─┬ ┬─┬ノ(ಠ_ಠノ)
+Please respect tables...
+
+[–]PleaseRespectTablesBanned 2 points 4 hours ago 
+http://imgur.com/NuIp6wl.gif
+
+[–]FucksWithTables 2 points 4 hours ago 
+(╯ಠ_ಠ）╯︵ ┻━┻
+
+continue this thread
+[–]FucksWithTables 30 points 15 hours ago 
+(╯ಠ_ಠ）╯︵ ┻━┻
+
+[–]Davis660 1 point 14 hours ago 
+┬─┬ノ(ಠ_ಠノ)
+
+[–]FucksWithTables 1 point 14 hours ago 
+(╯ಠ_ಠ）╯︵ ┻━┻
+
+continue this thread
+[–]FucksWithTables 1 point 14 hours ago 
+(╯ಠ_ಠ）╯︵ ┻━┻
+
+continue this thread
+[–]AidenXY 1 point 14 hours ago 
+┻━┻︵ (°‿°)/ ︵ ┻━┻
+
+[–]TiiiMMMaHHH 2 points 15 hours ago 
+1 MINUTE? You're a fucking wizard.
+
+[–]mushbug 1 point 14 hours ago 
+It's a bot, you imbecile.
+
+[–]TiiiMMMaHHH 1 point 14 hours ago 
+Ouch. I just had to look through your comment history -- you're quite the curmudgeon, huh?
+
+[–]mushbug 0 points 13 hours ago 
+My comment history has nothing to do with you being too stupid to realize that's a bot. I'm sorry you have to go through life with that level of intelligence.
+
+[–]Delsana 0 points 14 hours ago 
+But I send it messages..
+
+[–]Delsana 1 point 14 hours ago 
+I missed you!
+
+[–]grape_jelly_sammich 1 point 15 hours ago 
+lol fuck off assembly.
+
+[–]Rvngizswt 4 points 14 hours ago 
+Isn't it a jmp in assembly?
+
+[–]byzantinian 2 points 14 hours ago 
+Yes
+
+[–]grape_jelly_sammich 1 point 12 hours ago 
+still, assembly is generally the only place that you'd reasonably use goto/jmps, etc.
+well...any language that doesn't have proper loops and/or doesn't return after a method/function completion. Do you know if there are other languages that are like that?
+
+[–]Fawkz 1 point 15 hours ago 
+I hope he wrote it in assembly, so its ultimate spaghetti.
+
+[–]pazoned 1 point 14 hours ago 
+So what's your Riot name.
+
+[–]brickmack 1 point 12 hours ago 
+Assembly programmer here. Goto is love, goto is life
+
+[–]lomelyo 103 points 15 hours ago 
+Sub isHottie ()
+If the.ASS == "FAT" Then
+return "HELL YES";
+End If
+End Sub
+
+[–]Leumasperron 19 points 15 hours ago 
+The ass was fat.
+
+[–]jskoker 22 points 14 hours ago 
+Hell yes
+
+[–]Vox_Imperatoris 1 point 13 hours ago 
+err04
+
+[–]grape_jelly_sammich 6 points 15 hours ago 
+lol now is "the" a class instance object...or is it a version of "this" or "self"? :-P
+
+[–]lomelyo 4 points 15 hours ago 
+To be honest I'm not sure which language I was writing on, just copied what I gathered from the post above. Figured that even if I tried to have the code make sense it would be wrong anyways, so I went with wrong but easier to understand.
+
+[–]newstudent_here 2 points 14 hours ago 
+If(hottie.theAss.size() >= kFAT)
+That returns the size of the ass of the hottie in question (assuming that hottie is passed into the function with the variable name hottie). It does this by first declaring which object you are looking at (OMG it's objectifying women!), then looking at its ass (assuming it isn't private), then calling it's size method.
+We then compare that to the constant value kFAT, to determine if the size is greater than or equal to the "fat" size. If that is true, commence your booty plundering.
+
+[–]lomelyo 2 points 14 hours ago 
+I considered the fatness of the ass as a boolean not a question of size.
+Like it gotta be a question if the girl has an itty bitty waist and a round thing in your face, you get sprung.
+So maybe If(hottie.theAss.isFat) would be enough.
+
+[–]newstudent_here 2 points 14 hours ago 
+Okay, well now we are assuming that the hottie, probably an instance of the girl class, has her ass as a public variable?
+I don't know about you, but all the girls I've met tend to keep their assess private.
+Plus, public variables are always sketchy.
+
+[–]lomelyo 1 point 14 hours ago 
+Yeah, but you can see the fatness. So maybe hottie.hasFatAss()
+
+[–]newstudent_here 2 points 14 hours ago 
+That works great! An accessor method that has the hottie request her own ass.
+
+[–]Thecrazything 1 point 14 hours ago 
+Wait, why is that ass a function and not just a protected variable?
+
+[–]His_Fordship 1 point 14 hours ago 
+Wait can you not just use - if(this.assSize >=kFAT){Return true}
+
+[–]grape_jelly_sammich 1 point 15 hours ago 
+hahah fucking A ;-)
+perl maybe? Though apparently there are a few popular languages that are along the lines of....assembly made easy.
+also, my question was mostly a joke. ;-)
+
+[–]lomelyo 2 points 14 hours ago 
+Yeah I get that need to point out things when I see programming jokes that make no sense, but need to put it lightly just so I don't come as a Buzzkill.
+
+[–]grape_jelly_sammich 1 point 12 hours ago 
+(hugs)
+later dude!
+
+[–]Russian_Spring 12 points 16 hours ago 
+Gates programmed in a language much harder than that. Anyway I would create a sorted array of women ranked by looks and seat them around me if I were him.
+
+[–]Lord_of_hosts 11 points 16 hours ago 
+You left off Option Explicit ;)
+
+[–]wanderer11 7 points 15 hours ago 
+That's only necessary if you are forcing variable declarations.
+
+[–]jeefreak 0 points 15 hours ago 
+Woosh
+
+[–]primaluce 2 points 15 hours ago 
+is that a UID? Otherwise I could just rename myself to Bill Gates and get in on some of that hot function action.
+
+[–]FatJoshPeck 2 points 13 hours ago 
+Sub GettingPoon()
+Dim SmexiiLadiesSeat, BillSeat, LoserSeat as string
+Do
+TryAgain:
+If BillSeat.row = SmexiiLadiesSeat.row then
+BillsSeat.column = SmexiiLadiesSeat.column + 1
+Else
+BillSeat.row = BillSeat.row + 1
+GoTo TryAgain:
+End if
+If LoserSeat.row = SmexiiLadiesSeat.row then
+LoserSeat.delete
+End if
+Loop until LoserSeat = "" 
+End sub
+
+[–]Rex-Prime 1 point 15 hours ago 
+so he also had to define nexttohotties variable and he set them to the hottest girls in the school? Now that nice.
+
+[–]pipsdontsqueak 1 point 15 hours ago 
+If it's a school, wouldn't it be "Gates, William <middlename>"?
+
+[–]DipIntoTheBrocean 1 point 14 hours ago 
+I FUCKING HATE VBA
+
+[–]aulle 1 point 13 hours ago 
+This is beautiful
+
+[–]mtrebor 1 point 13 hours ago 
+the real question is, did this get him poon
+
+[–]CommanderDerpington 1 point 10 hours ago 
+You're not very good at this are you?
+
+[–]code001110 42 points 19 hours ago 
+what did I do?
+
+[–]ObLaDi -31 points 19 hours ago 
+Well...to be honest
+
+[–]code001110 19 points 19 hours ago 
+That's nice
+
+[–]SJ_RED 3 points 16 hours ago 
+Man, she is hot.
+
+[–]SgtSlaughterEX 2 points 16 hours ago 
+https://zippy.gfycat.com/GlisteningMiserableFlyingfox.webm
+
+[–]dedservice 1 point 15 hours ago 
+This crashed my video card driver O.o
+
+[+]ObLaDi comment score below threshold  (2 children)
+[–]ObliviousIrrelevance 6 points 15 hours ago 
+Got 99 problems but a code ain't 1.
+
+[–]KimJongIlSunglasses 1 point 15 hours ago 
+Got 99 problems but a bit ain't one.
+
+[–]RealEstateAppraisers 1 point an hour ago 
+He married his secretary. LoL.
+
+[–]IDontMakeGoodPoems -39 points 20 hours ago 
+Bill Gates
+More like Watergate
+Because he did stuff
+People didn't know about
+
+[–]secretchimp 66 points 20 hours ago 
+This account sucks
+
+[–]Tehni 28 points 17 hours ago 
+It's actually pretty fucking hilarious if you like dry humor
+
+[–]space_nicks 19 points 16 hours ago 
+It's dry, but i dont see humor from that poem.
+
+[–]Jessarium 5 points 15 hours ago 
+That's because it's not a good poem.
+
+[–]Tehni 1 point 7 hours ago 
+This poem isn't the best example, but he/she has some pretty good ones previously.
+
+[–]Alexanderdaawesome 3 points 16 hours ago 
+Maybe he needs a towl
+
+[–]tensaiteki19 0 points 16 hours ago 
+Now this account I can get behind.
+
+[–]secretchimp 1 point 11 hours ago 
+I like dry humor and it's shit dry humor
+
+[–]purselane -1 points 15 hours ago 
+OP sucks major balls
+Poems? More like broken prose
+Fuck, take it elsewhere
+--Basho, 1669
+
+[–]MeLlamoBenjamin 1 point 15 hours ago 
+What if the playa wrote the code?
+
+[–]Channer81 0 points 14 hours ago 
+I am gay for his code..
+
+[–]InvisibleBlueUnicorn 326 points 18 hours ago* 
+Increasing the Odds does not guarantee success.
+-Bill Gates (after few decades)
+edit: Bill Gates Harvard Commencement Address, where he said the above quote at around 05:50 mark - https://www.youtube.com/watch?v=zPx5N6Lh3sw
+
+[–]JohnSelth 56 points 16 hours ago 
+But it sure does help :P
+
+[–]jjbpenguin 28 points 15 hours ago 
+just like how the house isn't guaranteed to win in Vegas. They are just more likely.
+
+[–]Gsanta1 5 points 14 hours ago 
+Specially if people keep coming back
+
+[–]Creabhain 1 point 4 hours ago 
+In the long run the house does win. They just don't win every specific bet or against every specific gambler. That doesn't matter. They make a guaranteed profit over time. No risk.
+
+[–]jjbpenguin 1 point 2 hours ago 
+No, they do not. They have a statistical advantage, but it is absolutely possible for the casino to have a bad streak where they lose money until they go bankrupt before their luck turns around.
+Same idea as there being an 18/18/2 red/black/green odds on roulette, but it is still absolutely possible although highly unlikely that the ball could land all reds for a day or week, or month, or even a year.
+The only absolute casinos have are on games like poker where they charge a flat fee or percent of the pot in return for facilitating the game.
+
+[–]Pyramid9 1 point 13 hours ago 
+They are guaranteed to win over time.
+
+[–]famerino 2 points 13 hours ago 
+There's almost no chance of winning over time, but almost none isn't the same as none.
+
+[–]jjbpenguin 1 point 12 hours ago 
+Only over an infinite time. It is possible, although no probable for casinos to lose far more than they win and go bankrupt before their luck has a chance to change.
+
+[–]StreetfighterXD 27 points 16 hours ago 
+/r/nevertellmetheodds
+
+[–]True_Truth 4 points 15 hours ago 
+Just found me a new sub!
+
+[–]Rvngizswt 1 point 14 hours ago 
+I didn't, they're all reposts!
+
+[–]sub178 2 points 12 hours ago 
+two types of people
+those who link things with timestamps and you.
+
+[–]adrian5b 1 point 9 hours ago 
+Well, no, but it increases the odds, that's the point of increasing the odds… plus, if you increase the odds so much they reach 100%, then fuck you Mr. Gates.
+
+[–]wheredreamsgotodie 1103 points 19 hours ago* 
+A buddy of mine (who now owns a successful software company) wrote the voting web app for his university's student elections. He ran for office and won. He won because he wrote the software.
+He's clever and vicious.
+Edited to add: funny how many people seem so certain this didn't happen. There really isn't much I can say to convince otherwise except provide more context. Hell, maybe he lied to me...This was in the early 2000s which was a different time. Him and I were in ap comp sci and spent most of our time doing stupid shit, trying to write key loggers, etc. we went to different colleges, he became "all everything". Years later when his company was well on his way, he told me what he did. We were drunk, he was still nervous about it, terrified that it would come out.
+In our industry there are people who are very successful starting their own companies. Some are lucky, some are revolutionary/brilliant, and others are driven beyond comprehension, some all three or a combo of two. This guy who did this is the third type. He's ruthless, driven, and very intelligent. Like I said, maybe he lied but I believe him capable of pulling it off.
+
+[–]pboly44 598 points 18 hours ago 
+The university wasn't smart enough to figure out what he did?
+
+[–]wheredreamsgotodie 323 points 17 hours ago 
+No. But he probably allowed a vulnerability due to omission. Then exploited it to affect numbers, but not just his.
+
+[–]Alikont 294 points 16 hours ago 
+And people want national electronic elections.
+
+[–]SnowdensOfYesteryear 500 points 16 hours ago 
+The problem here isn't that he wrote the code, the problem is that the university didn't audit it.
+
+[–]DrBoomkin 175 points 16 hours ago 
+Depending on how good he is, it wouldn't have helped. If you are the one writing the code, it's not that difficult to create a very hard to detect security vulnerability, and then exploit it. Even if it's found, you can always believably claim that the vulnerability wasn't intentional.
+
+[–]Stuhl 183 points 16 hours ago 
+Reminds me of some contest where you had to write a secretly malicious program. The winning program was a censoring program where you mark parts of a picture and it becomes black. The Clou: His program replaced the numbers of the colour code with zeros. Depending on the amount of colourness, the black consisted of tree values: 0, 00 and 000. You could then use a secondary program, to change these 0 to 1 to get back the censored Information in trinary greyscale, which is good enough for text documents.
+
+[–]OK_Soda 120 points 15 hours ago 
+I have no idea what you just said.
+
+[–]-Josh 120 points 15 hours ago 
+Basically a program that made things look like they were blacked out, but had enough difference between blacks and whites that another program could read the text you tried to censor.
+
+[–]crossbowffs 54 points 15 hours ago 
+Yup. Underhanded C Contest: http://www.underhanded-c.org/_m_200910.html
+There's other entries for other years as well, and they're equally awesome.
+
+[–]LegendaryGinger 6 points 15 hours ago 
+Omg that's genius
+
+[–]sacesu 40 points 15 hours ago 
+Imagine a picture editing program that lets you add black rectangles. You use it to censor out certain names from a sensitive document.
+Instead of just writing a "0" over each pixel (turning it black), the program writes "0" "00" or "000" depending on the pixel's color.
+So to every other program, its a black rectangle, since 0, 0000, 000000000, etc. are all still black. But if you read the file correctly, you can convert those groups of zeros into 3 colors: black, grey, and light grey. For a document, it means you could probably read the text.
+
+[–]calfuris 9 points 13 hours ago 
+http://i.imgur.com/9v0au63.jpg
+
+[–]calfuris 1 point 13 hours ago 
+Easily read the text. I saw a recovered picture and it was astounding. I'll try to find it when I'm no longer on mobile.
+
+[–]KaptanOblivious 12 points 15 hours ago 
+I believe he was saying it was a program for blacking out sensitive text on scanned documents, for instance on top secret files being declassified. Instead of changing the image to a uniform black, it would allow the information to be retrieved.
+
+[–]ivanmius 6 points 14 hours ago 
+If you were to read the article provided by crossbowffs, the program is meant to be used to censor images, text, etc. When a region is censored, each pixel is made black. The tricky part is that each pixel has 3 numbers that give it color (ex: 255 45 51), so when he makes it black it changes to all zeros (ex: 000 00 00). The number of zeros in the 'black' pixel betray the original information.
+White is (255 255 255) and black is (0 0 0). So you can see that after censoring, original black remains (0 0 0) and original white is now (000 000 000). Same color, but if you were to read the file in a special way, you could find the original information, especially if its black and white, like text documents usually are.
+Even better, the decision to do it this way is defensible in code review. This way avoids certain bugs from file reading functions built into C.
+
+[–]wral 4 points 7 hours ago 
+How can you do that? If there is a pixel data consisting of three bytes there is no way you can write 00, or 000 in there. It's just number. So it would be just 0.
+
+continue this thread
+[–]MeinKraftt 2 points 11 hours ago 
+Every dot in an image has a colour value, represented by a number. So 0 is black, 1 is very very dark grey, 2 is very dark grey, 3 is darkish grey, and so on.
+This program modified images of text by turning censored parts black totally black, like this.
+The trick is that for each dot, it set the colour to 0 if it was originally black, 00 if it was originally grey, and 000 if it was originally white.
+All those values mean the same thing, of course, they all mean black, because 000 is the same number as 0. So the program appeared to work perfectly.
+But it meant that he could write another program that looked at the colour values and turned the 000 parts back into white, and the 00 parts back into grey, and read the censored text.
+This is an example of something that would be totally devastating to anyone using the program, yet very hard to detect, even if you were reading the original source code.
+
+[–]KnowsAboutMath 16 points 15 hours ago 
+tree values: 0, 00 and 000.
+How would you store these as distinct values in any common data type for numbers?
+
+[–]UnsubstantiatedClaim 15 points 15 hours ago* 
+The PPM format uses the numbers 0-255 to display the intensity of the RGB values of the pixel. The program changes the value character by character. So intensities 0-9 become 0, 10-99 become 00, and 100-255 become 000.
+The values are stored and read as characters, not numbers.
+Edit: why this matters:
+You can then convert the black box back into a grey scale image with three intensities by converting the zeros back to higher numbers: black: 0, grey: 99, and white: 255. For something that was already black and white (like text) you get full fidelity.
+Original:   255 255 255 0 0 255 0 255  
+Censored:   000 000 000 0 0 000 0 000  
+Uncensored: 255 255 255 0 0 255 0 255  
+
+[–]dumbducky 12 points 15 hours ago 
+Reading the creator's blog explains it better. The format of the image file is RGB encoded in ASCII. So a black pixel is 255. Rather than changing the string to 0, it changes it character by character to 000. This allows an approximation of the original value. If the original image was black and white (0 or 255) it can be recreated perfectly.
+
+[–]buster2Xk 3 points 15 hours ago 
+I'm guessing it wasn't a "common data type for numbers".
+
+[–]Stuhl 3 points 15 hours ago 
+It was afaik saved that way. Imagine a simple file format like csv but for images.
+
+[–]Justice_Prince 22 points 15 hours ago 
+It didn't even occur to me that the program could be used to censure documents. I thought he just wanted to see the nipples that got blocked out.
+
+[–]gid0ze 9 points 15 hours ago 
+Reminds me of some government oops a while back where they released a blacked out pdf. Someone was able to remove the black bars and reveal the text underneath.
+
+[–]essidus 3 points 14 hours ago 
+I remember that one! And it turned out that most of the blacked out stuff wasn't even interesting, right? Mostly just perfectly reasonable costs or something.
+
+[–]creepystains 1 point 14 hours ago 
+That reminds me of what this guy did. While I don't agree with all the views he mentions in his paper, what he created is a really interesting trojan horse.
+
+[–]cmatute 1 point 14 hours ago 
+Nice
+
+[–]learnyouahaskell 1 point 12 hours ago 
+Well there is the Obfuscated C Code contest
+
+[–]br0zarro 9 points 16 hours ago 
+So if you wrote a program for electronic voting, then let everyone proof read the code for any errors or security problems, do you think that all the programmers in the world with free time would be able to find any faults?
+
+[–]c8220 13 points 14 hours ago 
+I'd bet they could find any unintentional bugs fairly easily. It becomes more difficult when the programmer attempts to make the code incomprehensible and hide the bug.
+But even if the code is demonstrably perfect, if you don't control how it is compiled and on what hardware it is run, it's all for nought.
+There's the famous hack Ken Thomson described where he modified the login program of the unix OS to accept the user's password or his backdoor. Of course this bug would be immediately noticed by anyone browsing through the source code, so he modified the C compiler to recognize when it was compiling the login program and insert his backdoor code. Now perfectly innocent login code generated a broken program, but the modifications to the C compiler were still visible in the source code. He then added another exploit to the compiler so that it would recognize when it was recompiling itself and automatically insert both explots. He then removed the offending code from the source code since it wasn't needed anymore. In the end he had two dangerous exploits in both the compiler and login program without any traces of code.
+You could theoretically take this hack as deep as the computer hardware itself.
+The moral is obvious. You can't trust code that you did not totally create yourself. (Especially code from companies that employ people like me.) No amount of source-level verification or scrutiny will protect you from using untrusted code. In demonstrating the possibility of this kind of attack, I picked on the C compiler. I could have picked on any program-handling program such as an assembler, a loader, or even hardware microcode. As the level of program gets lower, these bugs will be harder and harder to detect. A well installed microcode bug will be almost impossible to detect.
+-Ken Thompson (Reflections on Trusting Trust)
+
+[–]pigapocalypse 2 points 12 hours ago 
+Wow, that's pretty crazy.
+
+[–]laptopdude90 15 points 15 hours ago 
+If you over a cash prize to people who find any exploits, combined with punishing the original programmer by deducting some cash from whatever he was getting paid, it might work
+
+[–]Redremnant 12 points 15 hours ago 
+Or better yet, open source it.
+
+[–]laptopdude90 12 points 15 hours ago 
+Yes - Open source it and offer a cash prize.
+
+continue this thread
+[–]UnsubstantiatedClaim 2 points 15 hours ago 
+Just be careful with community submissions.
+
+[–]aschsr 0 points 14 hours ago 
+or just keep paper and a pencil....don't fix what isn't broken
+
+[–]TheLateOne 6 points 15 hours ago 
+The trick is to find the exploit and then claim the bigger prize offered by interested parties
+
+[–]laptopdude90 3 points 15 hours ago 
+And hope nobody else finds the exploit
+
+continue this thread
+[–]Goodrita 1 point 15 hours ago 
+Would you rather have a handful of cash, or your name in the next presidential race?
+
+[–]laptopdude90 3 points 15 hours ago 
+If I was quiet about an exploit in some other person's code, and that person granted me president for some odd reason, I'd also have to hope nobody else finds the exploit
+
+continue this thread
+[–]raffters 2 points 15 hours ago* 
+Relevant XKCD
+
+[–]xkcd_transcriber 3 points 15 hours ago 
+Image
+Title: Voting Machines
+Title-text: And that's another crypto conference I've been kicked out of. C'mon, it's a great analogy!
+Comic Explanation
+Stats: This comic has been referenced 82 times, representing 0.0934% of referenced xkcds.
+xkcd.com | xkcd sub | Problems/Bugs? | Statistics | Stop Replying | Delete
+
+[–]redditmortis 3 points 14 hours ago 
+You put the brackets around the text and the parentheses around the URL.
+
+[–]UncleMeat 1 point 11 hours ago 
+It took several years before a correct implementation of Merge Sort showed up in a paper after it was initially created. Writing correct code is hard. Writing correct and secure code is considerably more difficult.
+
+[–]trey_at_fehuit 2 points 15 hours ago 
+you can always believably claim that the vulnerability wasn't intentional.
+Until it can be shown that you profited off of it.
+
+[–]twistedcain 2 points 13 hours ago 
+it's not that difficult to create a very hard to detect security vulnerability
+Rough example,
+Web pages have the ability to send data through the URL in what's called a GET variable, similar to "&test=11". "test" is the name of the variable and "11" is it's value. Programmers are supposed to check each GET variable to make sure it's a proper value. Forgetting to check variables is what causes a majority of what people refer to as hacks, exploits, vulnerabilities or you what have you.
+A real world example of this is an online game I used to play where you could send chat messages to other players in game. There was an interface for this built into the game, but you could also chat using console commands in the game to chat. The programmer limited how much text could be put into the text box, but forgot to check the length of the text when it was entered through the console. I discovered that if I entered a really long string of text in the console it would cause the server to restart and kick all the players off. If everyone pissed me off, I could boot them all off. This mistake was in a game that probably cost over 10 million dollars to make.
+Back to my original example, of the hundreds of variables a website might pass back to itself through GET variables, it would be easy for a programmer to 'forget' to check one of those variables. Even one variable unchecked could allow the programmer to maliciously modify the database by sending instructions (code) with the GET variable that tells the software to modify something in the database. Even if they found the unchecked variable, they would have no way to prove that you made the modifications. Unless of course you built a complex tracking system into the software, which of course, if you're the programmer, you could simply modify that as well.
+
+[–]Just-so-story 1 point 15 hours ago 
+Lets put aside for a moment that, that story didn't happen.
+Something as simple as a university voting app could easily be audited by one or two other programmers or a Professor who is capable of writing code. It's the same as with maths, you just need the will every retard can do it if he has enough discipline ( this comes from someone who used to earn his money with financial maths, so I am calling myself a retard as well as I know how easy this shit is if you just try ).
+
+[–]Lockjaw7130 1 point 14 hours ago 
+It's normally not that easy. Specialist programmers are incredibly adept at detecting any vulnerability and deciding if it came from laziness.
+
+[–]BEHAVE_AND_BE_NICE 1 point 6 hours ago 
+I do not do code. But i do engineering. I sometimes find errors in my stuff and leave them in on the printed version. I fix them when i see them. So they will not be on the final edition. (small stuff, typos, dimentions not correlating in the part list field with the drawing etc.)
+I do this because i want to know how thorough my controller is. I imagine that is kinda similar in how one would try to go through with it.
+
+[–]Gymnocalycium 64 points 15 hours ago 
+The university doesn't really care who wins elections. The elections only exist so Type A people can compete for something and put that on their resume. The school puts them in charge of stuff they don't really care about so they get free labor but no actual risk. The day that chancellors or administrators get elected is the day they start auditing their software. If a university really cared about something, they certainly wouldn't let kids run a popularity contest to see who gets to do it.
+
+[–]OK_Soda 27 points 15 hours ago 
+At my university, the student body president oversees a budget of something like $12 million. The president, along with the senate, deals with things like city-wide bus transportation (the city has no bus system of its own and simply relies on the university's), multiple university-wide festival-type events that spill over into the city, building renovations that cost millions of dollars, and other important and large-scale activities that the university certainly cares about a great deal. It's not like high school where you just have a meaningless title with no power or responsibility attached.
+
+[–]Gymnocalycium 27 points 15 hours ago 
+I think you'll find there are administrators or regulations behind the scenes that prevent the students from doing anything the university administration really doesn't want them to do. Choosing bus routes or which musician to hire for the yearly events is something the administration doesn't really care about and is happy to let the students decide since the point of both of those things is to make the students happy -- but if they choose the wrong musician, of course the university will override them.
+
+[–]AdamPhool 8 points 15 hours ago 
+Probably depends on the school.
+
+[–]OK_Soda 4 points 15 hours ago 
+Yeah, I'm sure. Mine is part of the UC system, so it's quite large and every facet of it has large operations with a large budget that comes under a lot of public scrutiny. I would imagine that at smaller and more private universities, the importance of the student body president is correspondingly smaller.
+
+[–]Glandiun 2 points 15 hours ago 
+What university if I may ask?
+
+[–]OK_Soda 3 points 15 hours ago 
+UC Davis
+
+[–]LowCarbs 1 point 13 hours ago 
+goags
+
+[–]willun 2 points 15 hours ago 
+The elections only exist so Type A people can compete for something
+Like a former Australian Prime Minister.
+
+[–]truh 1 point 14 hours ago 
+The day that chancellors or administrators get elected is the day they start auditing their software.
+Yeah, for sure. We will have secure software when it really matterns. /s
+How long did it take again for OpenSSL to get audited? The software most of the encryption in the internet is based on.
+
+[–]Gymnocalycium 1 point 13 hours ago 
+Security has a price. Hiring four or five guys to analyze a large application can easily cost over a million dollars. If anything, they would just contract out important software to IBM, Accenture, or Booz-Allen. Of course that doesn't guarantee security whatsoever, but it's a big step up from hiring a local computer science student to write it.
+
+[–]truh 1 point 8 hours ago 
+over a million dollars
+Cute. That's peanuts in comparison to the money made on the internet and with SSL.
+Accenture
+I think those are the guys who also messed up the Obamacare launch.
+local computer science student
+Who do you think do these companies hire? Gods?
+
+[–]Gymnocalycium 1 point 7 hours ago 
+OpenSSL is a different story. I'm talking about typical middleware, such as a website for voting for student body candidates.
+I think those are the guys who also messed up the Obamacare launch.
+Maybe so, but healthcare.gov was an extremly complicated system and big companies certainly do make mistakes.
+Who do you think do these companies hire? Gods?
+No, but they do have people with years of experience and for things like security that's important. Even if a school offers a course on software security, one semester is not enough to learn all that there is to know.
+
+continue this thread
+[–]brickmack 1 point 12 hours ago 
+Depends on the school. Theres some where its basically the same as high school elections (popularity contest and mayve they get to choose the decorations at some event), others let the student leaders handle frankly obscene amounts of money for various projects.
+
+[–]nizo505 4 points 15 hours ago 
+Paper ballot is counted by machine A, and then counted again by machine B (written by a different vendor than machine A). Machine A and B better have the same number of votes, otherwise you count the paper ballots by hand. Vendors of machines A and B are fined (and potentially disqualified, if their counts are really bad).
+Seems pretty simple.
+
+[–]latticusnon 2 points 15 hours ago 
+I don't think you understand what people mean by electronic elections if you think it involves paper ballots.
+
+[–]nizo505 3 points 15 hours ago 
+Having no paper trail at all would be insane for a number of reasons.
+
+[–]latticusnon 5 points 15 hours ago 
+Well yeah that's why people are against it.
+
+[–]truh 2 points 14 hours ago 
+Either the paper trail will be checked again (probably manual) in which case you might as well not make a computer election. Or you don't check the paper trail, in which case you could as well not have a paper trail at all.
+
+[–]garciasn 2 points 15 hours ago 
+Doesn't work when all parties collude. The fines are offset by the windfall received when the election is won and they're paid handsomely for their collusion by the winning party.
+
+[–]Brillegeit 1 point 13 hours ago 
+Representatives of all nominated parties oversee the counting. That's how it's done here in Norway in the parliamentary election. I worked at a voting location a few years and there were representatives from all parties observing the ballot box and everything else going on from the doors opened until they closed. The ballot box seal was then checked for tampering, emptied and the votes counted by multiple people while being observed by 15+ people, where a representative for each party noted the number of votes for each party. The numbers were then reported by phone to a central location so a preliminary winner could be made in just a few hours. The ballot box was then re-sealed and transported by an official and a witness in a taxi to the town hall for the secondary counting and verification with the number of registered votes at that location.
+Since all invested parties can observe both the voting, and the counting in a way where they can count themselves, any cheating would require a massive number of involved parties. Voting are normally held in schools, city halls and other fitting venues in all parts of the country with just a few hundred or thousands of voters per location, so in order to make a significant impact, a lot of these have to be infiltrated.
+I can't guarantee that I remember all details correctly as it's almost a decade ago, but it's close.
+
+[–]DickPuppet 1 point 15 hours ago 
+What if vendor A and vendor B are both in on it?
+
+[–]nizo505 4 points 15 hours ago 
+They better hope that random spot checks of the paper ballots don't find a discrepancy?
+
+[–]aschsr 1 point 14 hours ago 
+or save a whole lot of money and just count by hand
+
+[–]RagingNerdaholic 2 points 15 hours ago 
+That's OK, there are plenty of other reasons why electronic voting is a profoundly bad idea.
+tl;dw chain of custody is basically impossible
+
+[–]faithfuljohn 2 points 15 hours ago 
+the problem is that they let the guy who made the program eligible for any kind of elections.
+
+[–]dripdroponmytiptop 1 point 14 hours ago 
+nah I think we can still viably blame him for this, dude. We just can also blame the university.
+If someone stabs a guy, you blame the guy who stabbed the other guy, not just the guy who sold him the knife and thought it'd be okay.
+
+[–]ShangZilla 1 point 13 hours ago 
+What happened to this?
+https://www.youtube.com/watch?v=YcxGGnmRQAs
+
+[–]RellenD 2 points 16 hours ago 
+With complete transparency in how the application works this works be fine. Make sure the code is published and audit the election.
+
+[–]Alikont 6 points 15 hours ago 
+Published code is nothing if you can't control what code runs on the server.
+
+[–]RellenD 3 points 15 hours ago 
+excellent point - that's where the second step comes in, yes?
+I'm operating from the principle that people wanting online voting are actually trying to implement something useful, though.
+
+[–]Nyxisto 3 points 15 hours ago 
+The problem with electronic elections is that a small amount of people can affect an insane amount of votes, there simply is no way around it. If you install auditors who audits them?,
+Manipulating paper votes will always involve a proportional amount of people in regards to the number of votes you manipulate.
+Voting needs the highest amount of safety possible, electronic voting is a bad idea. Given the fact that you'll probably vote only a few times every few years there is simply no reason that would justify the risk.
+
+[–]The_Schwy 1 point 15 hours ago 
+yeah but like bitcoin where its all secure and stuff
+
+[–]Alikont 1 point 15 hours ago 
+Bitcoin a) relies on distributed network, b) doesn't guarantee anonymity.
+
+[–][deleted] 15 hours ago 
+[deleted]
+[–]most_low 1 point 14 hours ago 
+This would not be a problem for national elections. Someone would double check the code because, unlike university elections, some people care about national elections.
+
+[–]brickmack 1 point 12 hours ago 
+Countries tend to have slightly better quality control than schools, at least in theory. And in the case where they don't, they'd probably find a way to commit election fraud regardless of the method
+
+[–]SupremeHug 1 point 6 hours ago 
+Well you have to trust either the software or the people counting the votes
+
+[–]Alikont 2 points 6 hours ago 
+Usually there is a lot of people counting the votes, like dozens per each station. And they all are from different parties/backgrounds.
+It's hard to buy or convince them all to rig the election.
+
+[–]itonlygetsworse 0 points 15 hours ago 
+You realize people are already rigging electronic voting booths all over the place right? I don't know why the media doesn't cover this shit.
+
+[–]SocialFoxPaw 0 points 15 hours ago 
+All of this is solved with open source blockchain based voting...
+Consider this: People trust internet transactions with BILLIONS of dollars every day... clearly we CAN make them reliable and safe.
+
+[–]CRISPR 1 point 14 hours ago 
+The runner up was Rich Bastard, third place went to John Doe and the fourth place went to Foo Bar
+
+[–]eazolan 1 point 2 hours ago 
+It was a student election. Who the fuck cares?
+
+[–]BestSanchez 40 points 16 hours ago 
+String getWinner() { return "Me, bitches."; }
+
+[–]iamaquantumcomputer4 30 points 15 hours ago* 
+Later:
+Dear members of the campus community,
+The results of this year's student elections are in! We would like to announce Bitches Me as your new undergraduate student government representative. We would like to congratulate Mr. Me on his victory and all candidates for a well fought campaign season.
+Regards,
+Samuel Monroe
+Dean of student affairs
+
+[–]Kelgand 8 points 15 hours ago 
+I believe that would be Mr. Me. The comma tells us that it is "last name, first name".
+His parents must have hated him something fierce for a name like that.
+
+[–]iamaquantumcomputer4 1 point 12 hours ago 
+corrected it
+
+[–]Wingman4l7 1 point 13 hours ago 
+All hail President NOT SURE!
+
+[–]Driftpants 1 point 15 hours ago 
+not enough stds in that declaration.
+
+[–]BegoneBygon 56 points 18 hours ago 
+Yeah he'd have be thrown out for that if they ever realized. Not very smart.
+
+[–]wheredreamsgotodie 42 points 18 hours ago 
+Yes, he would've absolutely been thrown out. His college has a very strict honor code.
+
+[–]why_rob_y 40 points 17 hours ago 
+I would throw out his opponents. No one questioned the winning candidate being the one to write the software?
+
+[–]Bottle_Gnome 22 points 16 hours ago 
+That's because it isn't true.
+
+[–]WIZARD_FUCKER 5 points 15 hours ago 
+But he said his friend did it... HIS FRIEND DID IT
+
+[–]wheredreamsgotodie 9 points 16 hours ago 
+This was early 2000s, so it was a bit of a different time. See my point above. If done correctly it would be hard to detect and even harder to prove that he manipulated the numbers.
+
+[–]0473332002285 2 points 15 hours ago 
+strict honor code
+hueheh
+
+[–]Vandelay_Latex_Sales 1 point 14 hours ago 
+Did your friend go to Klingon University and major in Bat'leth combat?
+
+[–]I_AM_CANADIAN_AMA 10 points 15 hours ago 
+It sounds like he won because his university is retarded.
+
+[–]WheresTheGotcha 4 points 15 hours ago* 
+I wrote a voting program for our junior high to vote if they liked Ross Perot or Bush or Clinton better. I was pretty proud of it, even on a local radio show. Back in the day when I figured I'd end up being a programmer.
+Edit: Ross won in our school.
+Oh, I totally forgot I also wrote a batch file that downloaded all the locker combos for our school. (The vice-principle needed help with his spreadsheet.) I tried a few lockers to see if it worked, it did. Bit I was too good of a kid to do anything with it. I think I said I needed to help optimise the spreadsheet, opened up a DOS prompt and copied all .xls to my 1.44 disk.
+
+[–]GYP-rotmg 5 points 15 hours ago 
+when I figured I'd end up being a programmer.
+dont leave us hanging. Did you?
+
+[–]WheresTheGotcha 2 points 12 hours ago* 
+Nope, back in the day my mom paid for a computer tutor (keep in mind this was Apple IIe for me). Worked on arrays and some very basic stuff, but I ended up getting a video internship. It just so happened this was when non-linear video editing was just coming out. So my talents with computers and video matched up and I ended up getting a full time gig.
+Funny thing is that I'm still bitter about how the teachers pulled me put off another class to yell at me and basically threaten me that I should not be trying to test the security of their network instead odds fixing the problem. Back then I was proud of myself and had no harm intended, more just trying it out.
+
+[–]lubechow 3 points 14 hours ago 
+Doesn't look like it from his comment history. It's usually pretty easy to spot the devs
+
+[–]WheresTheGotcha 2 points 12 hours ago 
+Is it weird I'm kind of flattered someone actually looked at my history?
+The most cooding I do now are some wicked Excel formulas, ha.
+
+[–]brickmack 1 point 12 hours ago 
+Fun fact: if you ever need to rob that school, those locker combos probably still work. Most lockers only have 3 or 4 combos that actually work and they just rotate them once a year. So unless they've renovated since then they shouod still be valid
+
+[–]WheresTheGotcha 1 point 11 hours ago 
+Funny you should say that, the spreadsheet actually had for compost listed for each locker.
+
+[–]percussaresurgo 0 points 15 hours ago 
+Back in the day when I figured I'd end up being a programmer.
+Good thing you didn't become an editor.
+
+[–]WheresTheGotcha 1 point 12 hours ago 
+Lol, ya, seems to happen more with Reddit comments.
+
+[–]baltakatei 7 points 16 hours ago 
+Ah, the One Man, One Vote system. He was the man, he had the vote.
+
+[–]istrebitjel 2 points 15 hours ago 
+When my buddy and I set up the network for our new school computer lab (NetWare back then) we of course gave admin rights to our student accounts. Playing Doom was way more interesting than using the applications the rest of the students was confined to ... ;)
+
+[–]Hq3473 2 points 15 hours ago 
+Wow, his campaign slogan "vote for me, i wrote the code!" must have been super effective.
+
+[–]himynameisronm 1 point 15 hours ago 
+You spelled victorious wrong
+
+[–]ryuujinusa 1 point 14 hours ago 
+His vote alone counted for 51% of the votes
+
+[–]most_low 1 point 14 hours ago 
+Well that's messed up.
+
+[–]HorrendousRex 1 point 13 hours ago 
+I completely believe you, as I may have done something not entirely unlike that myself in high school around the same time.
+
+[–]BananaTurd 1 point 13 hours ago 
+The college was in Defiance, OH. His friend is B613.
+
+[–]harrybalsania 1 point 10 hours ago 
+Security holes out the ass on strawpoll. My company uses them sometiems for not so important things. Just apply a little pressure.
+
+[–]lqcnyc 46 points 15 hours ago 
+Bill gates - so much cooler than Mark Zuckerberg.
+
+[–]ReaLAjax 17 points 14 hours ago 
+Totally, all Zuckerberg does is steal views.
+
+[–]HowToCantaloupe 2 points 8 hours ago 
+For those who haven't seen it yet
+
+[–]Midwest_Product 89 points 17 hours ago 
+https://www.reddit.com/r/todayilearned/search?q=bill+gates+class&restrict_sr=on
+
+[–]torik0 57 points 15 hours ago 
+Jesus christ... this whole subreddit is just a few original ideas that get circled around every once in a while.
+
+[–]heisenberg747 36 points 15 hours ago 
+TIL this sub is kind of shitty...
+
+[–]lamamafia 12 points 14 hours ago 
+Jesus christ... this whole website is just a few original ideas that get circled around every once in a while.
+FTFY.
+
+[–]SilasTheVirous 6 points 14 hours ago 
+Jesus christ... this whole subreddit is just a few original ideas that get circled around every once in a while.
+FTFY
+
+[–]WheresTheGotcha 3 points 15 hours ago 
+Kinda sucks, but also reminded me of my hacking in high school like that in trouble for it so there's that.
+
+[–]Striaton 1 point 15 hours ago 
+Happy Cake Day!
+
+[–]WheresTheGotcha 3 points 12 hours ago 
+Um, thanks. I think?
+
+[–]AlexMeanberg 7 points 15 hours ago 
+Seriously. I wonder how many fucking times I've heard this.
+
+[–]The_Yar 1 point 14 hours ago 
+It's been embellished every few years since the 90s.
+
+[–]juiceyb 3 points 14 hours ago 
+Yeah. Well did you know Steve Buscemi was a volunteer firefighter and helped out after the 9/11 attacks.
+
+[–]pony-boy 1 point 14 hours ago 
+This one also implies that there was assigned seating where he put himself next to more females.
+
+[–]Midwest_man 0 points 14 hours ago 
+Nice username
+
+[–]thereverend6661 1791 points 20 hours ago 
+He was in class with Steve Buscemi, who went back to his old fire department on 9/11 when Leonardo Dicaprio cut his hand on the WTC but continued to do his scene.
+
+[–]TheLeopardColony 629 points 20 hours ago 
+Huh, TIL. I'm posting this tomorrow.
+
+[–]biggiesmalls_is_god 186 points 19 hours ago 
+Maybe in a few days I'll do it too.
+
+[–]oneUnit 60 points 15 hours ago 
+Dibs on the Saturday repost.
+
+[–]toplessrobot 2 points 12 hours ago 
+This guy knows when karma happens
+
+[–]I_cant_speel 6 points 14 hours ago 
+Just make sure it's not in the same hour and you should be good.
+
+[–]InternetOfficer 63 points 18 hours ago 
+If you post this tomorrow is it still TIL?
+
+[–]willyfogg 104 points 17 hours ago 
+Tomorrow I learned
+
+[–]kyperion 40 points 16 hours ago 
+Today is Tuesday so...
+Tuesday I learned...
+
+[–]beedlee 1 point 15 hours ago 
+Tell that to the cleaning lady on Monday.
+
+[–]s8l 7 points 17 hours ago 
+Everyday has been a today at some point, but today is not everyday.
+
+[–]maxdembo 5 points 16 hours ago 
+But the next day after tomorrow is still Thursday
+
+[–]Always_smooth 1 point 16 hours ago 
+But what if it was tomorrow?
+
+[–]Lark_vi_Britannia 4 points 16 hours ago 
+YESTERDAY, YOU SAID TOMORROW.
+
+[–]setfire3 3 points 15 hours ago 
+k, see you on the front page tomorrow.
+
+[–]Jerlko 88 points 19 hours ago 
+Don't forget that the blood saved 2 million lives.
+
+[–]Boomscake 38 points 17 hours ago 
+they are in his 2 millions lives account, up in the hollywood hills.
+
+[–]iceberg_sweats 23 points 16 hours ago 
+It wasnt that long ago that I was in a little Lamborghini with only 47 billion dollars in my bank account and only 47 lamborghinis in my lamborghini account
+
+[–]Adamapplejacks 2 points 14 hours ago 
+And only 47 hills in my hollywood account, and only 47 tedxtalks where I talk about Warren Buffet in my tedxtalks where I talk about Warren Buffet account
+
+[–]AgentDaleKooper 15 points 16 hours ago 
+YOU MUST CONSTRUCT ADDITIONAL PYLONS
+
+[–]Auctoritate 10 points 15 hours ago 
+And those 2 million lives' names? Albert Einstein.
+
+[–]repeat- 2 points 14 hours ago 
+And en espaniol, Alberto Einstieno
+
+[–]Vox_Imperatoris 1 point 13 hours ago 
+Unorocko.
+
+[–]Lark_vi_Britannia 110 points 16 hours ago 
+Today I learned that Leonardo DiCaprio risked hypothermia, ate bison liver, slept in an animal carcass, actually killed some guy, got AIDS, cut his hand while filming but then kept filming anyway, traveled the world, went 6 days without food or water, solved and fully explained Quantum Mechanics including finally finding a unified theory for all forces in the Universe, ended world hunger, reduced the homeless population to zero, cut his hand while filming and kept acting as if he didn't cut his hand, died, came back to life, was blessed by the Pope, found the Holy Grail, ate nothing but potatoes for an entire year on Mars, cut his hand while filming but didn't stop filming and kept going as if he didn't actually cut his hand, stop breathing for one hour and suffered permanent brain damage, actually sold drugs on the street to random people for realism, accidentally got shot on set but didn't stop and kept filming anyway, suffered a laceration on his hand for which he did not stop filming for and pretended that he did not get cut, fell in a black hole, ended the global climate change debate once and for all, while filming he got a gash in his hand from glass he was working with but pretended he wasn't actually cut and continued acting, artificially induced type 1 diabetes, cut off his leg on camera, ate out two chicks at once, put a bag on his hand and claimed he wasn't famous anymore, during a scene he was filming a piece of glass embedded itself in his hand which broke the skin and caused him to bleed but he continued to film as if nothing had happened, cut off both his hands and reattached them, became a Somalian pirate, stole the Declaration of Independence, destroyed the Death Star, prevented an alien race from taking over Earth, saved the President's life, and allowed Matthew McConaughey to have a small cameo for 3 seconds, and he did all of this for his new movie coming out soon The Revenant because Leonardo DiCaprio knows that the best acting is no acting at all.
+
+[–]kotkaiser 46 points 15 hours ago 
+Still no Oscar
+
+[–]kgriffen 5 points 13 hours ago 
+REKT
+
+[–]zerotwoalpha 0 points 12 hours ago 
+TYRANNOSAURUS REKT
+
+[–]Ublind 0 points 9 hours ago 
+OscaREKT
+
+[–]Getthelufes 2 points 14 hours ago 
+That Leonardo DiCaprio?
+Albert Einstein.
+
+[–]atowngmoneybankin 2 points 15 hours ago 
+That's actually hilarious, bravo!
+
+[–]leahcim435 1 point 15 hours ago 
+Also I heard one time he cut his hand and kept acting.
+
+[–]yoursweatersux -2 points 16 hours ago 
+This should be a best of
+
+[–]YAYYYwork -1 points 15 hours ago 
+Just making a long post is hardly worth best of. But the majority of stuff on that sub doesn't so whatever
+
+[–]DiegoGarcia1984 1 point 15 hours ago 
+Shouldn't like it is but it do.
+
+[–]JOSHardson 3 points 15 hours ago 
+You almost broke my brain.
+
+[–]basec0m 34 points 18 hours ago 
+Did you know Jimmy Graham used to play basketball?
+
+[–]mrcolter51 21 points 15 hours ago 
+Yeah, well Ryan Fitzpatrick went to Harvard.
+
+[–]SenorPuff 16 points 15 hours ago 
+Colin Kaepernick was adopted.
+
+[–]keatonbug 18 points 15 hours ago 
+I hear his parents wish they'd adopted Blaine Gabbert instead though.
+
+[–]Adamapplejacks 3 points 14 hours ago 
+Eli Manning is retarded.
+
+[–]LakeShittle 2 points 14 hours ago 
+Greg Hardy is a devout Christian.
+
+[–]repeat- 1 point 14 hours ago 
+Teddy Bridgewater's dick
+
+[–]SenorPuff 1 point 12 hours ago 
+Darren Sharper Holdmadick
+
+[–]jamesstarks 1 point 14 hours ago 
+Yeah but what did he score on the wonderlic
+/s
+
+[–]FlyingRep 42 points 19 hours ago 
+Wtf is going on here. Too meta for me.
+
+[–]Incandenza2015 194 points 17 hours ago 
+It's the standard doucher post when someone finds the TIL post to be an intentional repost of something popular. Steve Buscemi working as a firefighter and Leo Dicaprio cutting his hand during Django are examples of other popular posts commonly resubmitted. This type of comment is quite ironic since it's nearly always the top rated comment and the same exact snark; thus, doing the same lame thing it purports to criticize.
+
+[–]funktonaut 76 points 16 hours ago 
+Bravo.
+You have ascended to your planar form.
+Wololololololololo
+
+[–]FuckKarmaAndFuckYou 1 point 15 hours ago 
+Rise Kali maaaaaaaaaaaa! Shaktiiiii de!
+
+[–]rubber_hedgehog 23 points 16 hours ago 
+If you want something original, try saying something like Mila Kunis was 14 when she auditioned for That 70s Show. Lol, didn't say which birthday I'd be 18. killmeplease
+
+[–]Jonas223XC 11 points 16 hours ago 
+🎺💀
+
+[–]knibbsy 1 point 15 hours ago 
+JOHN CEEEEEENNNNAA
+
+[–]mynameisnotjonas 1 point 15 hours ago 
+🎺🎺🎺🎺
+
+[–]Jonas223XC 1 point 13 hours ago 
+I've found my nemesis
+
+[–]Stoic_stone 3 points 15 hours ago 
+this guy always fucking explains it and it's getting old.
+
+[–]TheFriffin 2 points 15 hours ago 
+But you also have this guy, who also explains the very same thing each time, trying to become superior to both of them but also being a dirty fucking reposter
+
+[–]Incandenza2015 -1 points 15 hours ago 
+What have I reposted?
+
+[–]TheFriffin 2 points 15 hours ago 
+There's always:
+The Reposter
+The Guy Calling Them Out
+The Guy Defending The Reposter
+Neither of them with much originality
+
+[–]exploitativity 5 points 15 hours ago 
+Wow, dude. Really? Did you really have to be the guy calling out the guy calling out the guy calling out the reposter? How unoriginal.
+
+[–]TheFriffin 0 points 14 hours ago 
+You fucking hypocrite, you're the guy calling out the guy calling out the... you get the idea
+The point is, UNORIGINAL!!1!
+
+[–]gnargnar211 4 points 14 hours ago 
+You've gone too far
+
+[–]AOEUD 1 point 15 hours ago 
+Why is Leo cutting his hand significant? (I've never seen this TIL which is apparently odd)
+
+[–]heartqueen 2 points 14 hours ago 
+iirc Leo cut his hand smashing glass in that dinner scene in Django Unchained and the blood is real but he stayed in character.
+
+[–]J_for_Jules 1 point 13 hours ago 
+Your comment should be put in the side bar. lmao
+
+[–]omegashadow 20 points 17 hours ago 
+Redditor for 5 years. Have seen the steve buscemi one once, django twice and this is the first time seeing this one. TIL. I feel like everyone should have xkcd's 10,000 comic shown to them every time they try to access this sub.
+
+[–]avree 11 points 17 hours ago 
+Six years here. Have never seen any of the posts this guys making fun of. Maybe he should spend more time away from his computer, then he'd care less about reposts.
+
+[–]billigesbuch 9 points 16 hours ago 
+I've never seen the posts, just comments bitching about them.
+
+[–]willdill 1 point 12 hours ago 
+Can confirm, spend about 10 houra a day on reddit, have see those posts at least 3 times each.
+
+[–]FreakTalent 1 point 13 hours ago 
+Well, it depends on what times you get on reddit. I get on reddit for at most 2 hours at night time and I've seen the Steve Buscemi one atleast 5 times and the Dicaprio maybe twice. Not everyone lives in the same time zone as you or browses reddit at the same times you do.
+
+[–]avree 1 point 13 hours ago 
+Yes, it depends, which is why complaining about reposts is retarded. Posts that are interesting to people will get upvotes.
+
+[–]FTHappy 1 point 13 hours ago 
+1 year, Steve buscemi's about 5 times and leo's 0.
+
+[–]Jaksuhn 1 point 6 hours ago 
+3 years. Steve: 2, Leo: 1.
+Hitler man of the year: 10.
+Everyone has one thing they see often ... I don't bitch about it as much as some people here.
+
+[–]Catastrophe666 1 point 10 hours ago 
+you forgot to mention a generic church of Scientology post
+
+[–]ButterThatBacon 1 point an hour ago 
+And one time, Bill Murray came in and smashed a glass with his hand, but kept acting though the pain. Robin Williams confirmed this story in an interview with Bill Nye about Koko the Gorilla.
+
+[–]zGoldenGiraffe -9 points 20 hours ago 
+What. LD was at the WTC during 9/11?
+
+[–]Amigobear 16 points 20 hours ago 
+No its a mix of Buscemi being a fire fighter on 9/11 and Leo cutting his hand during Django while filming.
+
+[+]zGoldenGiraffe comment score below threshold  (1 child)
+[–]Petrarch1603 0 points 15 hours ago 
+And that man's name?
+
+[–]camcamkennedy 111 points 19 hours ago 
+"He hijacked the control panel at an airport gate -- and got the plane to come back" Oh the good old days!
+
+[–]SaltyTaintJuice 26 points 16 hours ago 
+If you read it all he did was start pressing buttons trying to get the gate to go back out as the plane was about to leave and a staff member called the plane back
+
+[–]eagerzeepzee 12 points 14 hours ago 
+Also, he ate a chicken with a spoon. Really scraping the barrel of "crazy stories" there.
+
+[–]25idontknow 3 points 14 hours ago 
+The dude was crazy. When he wasn't programming windows, he was eating fucking chicken with a spoon. The richest man in the world. a spoon
+
+[–]eagerzeepzee 2 points 11 hours ago 
+"I once saw him try and pick up dry cheerios with a fork" - Allen
+
+[–]ponyphonic1 1 point 15 hours ago 
+Again... the good old days!
+
+[–]too-many-things 1 point 13 hours ago 
+Yeah, that means he's a hacker
+
+[–]HookLineNStinker 6 points 16 hours ago 
+What?! Now I have to read the article.
+
+[–]K3R3G3 1 point 15 hours ago 
+Crazy idea, right?
+
+[–]mister11th 1 point 15 hours ago 
+What article?
+
+[–]cool69 147 points 18 hours ago 
+Why would a computer program need to be written to seat kids in classes?
+
+[–]RapesBuffalos 111 points 18 hours ago* 
+I'm assuming when it says "sitting" with female students in class it doesn't mean the students were literally signing up for a chair in the classroom, but is used as a synonym for attending the class.
+When scheduling classes in college, there are often numerous sections of the same class. You have to balance your schedule so that the classes you choose don't overlap with any others. This means you have to carefully select certain sections of certain courses.
+In the past, people had to go through all the courses offered every semester, find out all the times they were offered, and calculate when they could take them - essentially, creating their class schedule by hand. If students were lucky, there was an office assistant who helped them, or did it for them.
+Nowadays (and I'm sure this is what Bill Gates created for his school) we have software applications that will calculate all these times out for us so that we don't have to. It will generate schedules for us.
+Bill Gates was just sneaky in that he modified the code so that the female students were put into the classes he signed up for.
+
+[–]Throw_Away_One_Day 69 points 18 hours ago 
+I'm guessing you didn't read the article. It was for high school, and it was to save the councilors time. The councilor just put what all the students wanted to take, and it found a way to make them fit.
+In the past, people had to go through all the courses offered every semester, find out all the times they were offered, and calculate when they could take them - essentially, creating their class schedule by hand.
+This is still pretty common, until 5 years ago I would say it was still more common. My university just released a schedule optimizer this year.
+Even using the optimizer though students still get to chose between hundreds of different schedules. You just get to sort them by stuff like "time off campus", "days off campus", etc. So it wouldn't work well at all on a college level.
+
+[–]Dent18 17 points 15 hours ago 
+TIL my college's scheduler sucks
+
+[–]buge 2 points 14 hours ago 
+So does the one at mine, so I wrote my own scheduler.
+
+[–]Jonny_Watts 2 points 13 hours ago 
+My school just gives you a randomized enrollment time and says "good luck asshole"
+
+[–]cyberlizzard 1 point 7 hours ago 
+Mine spits out thousands of possible schedules based on what days you want off, what classes you want to take, and what teachers you want. Then you go through and start deciding which sections you definitely want to narrow it. It's quite useful, and my school is so big there's a massive variety
+
+[–]JohnGillnitz 5 points 15 hours ago 
+Wait. There are things better then sitting around with a paper catalog of classes with incomprehensible numbers. Then standing in line for hours competing for classes that determine if your semester sucks or not with the same old strategy of camping out to get concert tickets? Inconceivable!
+
+[–]Justice_Prince 7 points 15 hours ago 
+In the past, people had to go through all the courses offered every semester, find out all the times they were offered, and calculate when they could take them - essentially, creating their class schedule by hand. If students were lucky, there was an office assistant who helped them, or did it for them.
+I wasn't aware that there was a different way now. Does the program also go on www.ratemyprofessor.com to make sure you only get teachers who a sexy, and don't make you do too much homework?
+
+[–]brickmack 1 point 12 hours ago 
+I wish my school had hot teachers. Most of them are 70 year old men...
+
+[–]Justice_Prince 1 point 11 hours ago 
+This two things aren't necessarily mutually exclusive.
+
+[–]Jikimi 1 point 13 hours ago 
+In the past, people had to go through all the courses offered every semester, find out all the times they were offered, and calculate when they could take them - essentially, creating their class schedule by hand. If students were lucky, there was an office assistant who helped them, or did it for them.
+I literally just did this for my winter semester yesterday.
+
+[–]vecnyj 2 points 17 hours ago 
+A lot of classes seat alphabetically
+
+[–]TheCowGoesMoo143 1 point 14 hours ago 
+Don't be an idiot
+
+[–]Dragon_Fisting 1 point 16 hours ago 
+It was highschool, and they did assigned seating.
+
+[–]14andSoBrave 1 point 13 hours ago 
+Alphabetically usually.
+Also who let's a kid create the program to assign seats anyways?
+This sounds like Einstein giving me $100 dollars that one time when I was homeless and now I'm the President.
+
+[–]SnowdensOfYesteryear -1 points 16 hours ago 
+My school used to have a program so seat people in class. IIRC it made taking attendance easier, but besides that I have no idea why it was useful.
+
+[–]wafflesnsyrup 22 points 17 hours ago 
+Haters gonna hate
+
+[–]Thestroll 3 points 13 hours ago 
+Gaters gonna gate
+
+[–]archfapper 1 point 2 hours ago 
+Gates' mugshot was used in Outlook
+
+[–]hairyotter 59 points 17 hours ago 
+Damn it feels good to be a gangster
+
+[–]Fummy 33 points 15 hours ago 
+Depends on the size of the chair.
+
+[–]deal-with-it- 2 points 15 hours ago 
+Spoken like a true enginner
+
+[–]Justice_Prince 4 points 15 hours ago 
+Hey it's not the size of the chair, it's the motion of the ocean... or something like that
+
+[–]DizKord 1 point 14 hours ago 
+For you
+
+[–]Loves2Poo 3 points 15 hours ago 
+One thing a lot of people don't know is that right after he did that he decked Connie Chung right in the face.
+
+[–]MittensRmoney 0 points 8 hours ago 
+/r/mensrights is leaking
+
+[–]lilblake91 2 points 13 hours ago 
+Description:
+"Bill Gates soaring majestically over a 50ft chair"
+
+[–]contentBat 1 point 7 hours ago 
+Get Siri to tell you what song that is. Might take a few times to get the custom message.
+
+[–]nakedjedi 29 points 16 hours ago 
+Would you have invested?
+
+[–]mau5trapper2 3 points 14 hours ago 
+Now that you mention it...
+
+[–]IndigoCup 1 point 10 hours ago 
+These guys look like they belong in /r/justneckbeardthings. Too bad a fraction of their worth is more than the entire userbase combined
+
+[–]SprayDan 13 points 15 hours ago 
+Gather around kids, Uncle SprayDan is going to teach you a lesson on the ladies and college.
+On the first day of class, don't get there early. No! Get there a minute or two before class starts. Stand at the front, look up at the lecture hall, find the best looking girl, and sit next to her.
+Then you actually have to talk with her. You're on your own there.
+
+[–]Lulu_lovesmusik_ 1 point 13 hours ago 
+How is this good advice? Maybe if you're not looking for anything long term. Still could cause a lot of problems...
+
+[–]saganstarguy 1 point 13 hours ago 
+Long term!? What? No. Eye candy.
+
+[–]Lulu_lovesmusik_ 1 point 13 hours ago 
+I thought the goal of OP was to get a date with the girl. But damn I guess if that also floats your boat, sure.
+
+[–]brickmack 1 point 12 hours ago 
+I fucked up. Its like halfway through the semester and the closest I've nanaged to sit to said hottest girl is one seat to the left, one row in front and have yet to say hi. What do?
+
+[–]RobertShrub 1 point 10 hours ago 
+Download tinder.
+
+[–]S8975 0 points 14 hours ago 
+:)
+
+[–]Chyleton 12 points 15 hours ago 
+M'icrosoft
+
+[–]trai_dep1 35 points 17 hours ago 
+Sadly for young master Gates, it had no effect in flipping his Virginity Bit from "0" to "1".
+
+[–]ChuqTas 34 points 15 hours ago 
+Wouldn't it be set to '1' to start with?
+
+[–]setfire3 23 points 15 hours ago 
+you sound like an expert at this topic.
+
+[–]ChuqTas 1 point 8 hours ago 
+Oooohh can someone please point me to a list of burn centres?
+
+[–]redditgoogle 10 points 14 hours ago* 
+//Initializing Human
+static bool virginity = true;
+
+[–]Silberklinge 2 points 4 hours ago 
+Silly /u/redditgoogle, virginity is a property unique to every human, so it should be an instance variable, not a static variable.
+Human redditgoogle = new Human();
+redditgoogle.setVirginity(true);
+
+[–]trai_dep1 3 points 14 hours ago 
+I considered it. But Virgin being the original state, "0" being the unpowered bit, and null describing most CoSci majors' romantic life experiences (yes, I went there), "Virgin" = "0" seemed the optimal choice.
+
+[–]PoorArtax 1 point 10 hours ago 
+not if it's active low
+
+[–]0x7C0 3 points 15 hours ago 
+Which would've effectively made him a virgin again. What you said represents someone becoming a born-again virgin...
+
+[–]trai_dep1 3 points 14 hours ago 
+You know how sometimes, you try at something and you mess up so horrifically, the brain prevents further trauma by blanking out the event?
+This would be one of those times. For the good of perpetuation of the species. Oh, wait…
+Damn it, Darwin, you messed up this time!
+
+[–]0x7C0 2 points 14 hours ago 
+Shit happens!
+
+[–]brickmack 1 point 11 hours ago 
+He got Melinda to sleep with him. Thats a pretty good score I'd say
+
+[–]trai_dep1 1 point 10 hours ago 
+Twenty five years seems a long wait for 1st Nookie to most… How about you? ;)
+
+[–]brickmack 1 point 2 hours ago 
+Still better than I'm likely to manage. I held hands with a girl once, 10 years ago. It was second grade and even then she seemed to immediately regret her decision
+
+[–]gredgex 8 points 16 hours ago 
+What a fuckin thug ass gangsta
+
+[–]MightierThanThou 5 points 15 hours ago 
+Damn it feels good to be a gangsta.
+
+[–]habloconleche 8 points 15 hours ago 
+What's funny about that is that he was so fucking uncomfortable around women.
+I wasn't there, but my parents have stories. One of them is about the friend they had looking over books at a store when he came over and stood next to her. He then followed her around, not saying anything, just trying to get her attention. Finally, creeped out, she left. At some point someone that was there told her who it was and her response "fuck". Because she would have given him a shot... since he's rich.
+Also, why did they need to steal the account for more computing time? Because he and Paul used all of the schools prepaid time over one weekend. Lakeside did well afterwards, though. Surprisingly, if a few of the richest people in the world went to your school, they give you some cool shit back.
+
+[–]relaxok 2 points 14 hours ago 
+Says more about their friend than him.
+
+[–]habloconleche 2 points 13 hours ago 
+Yes it does, but it was the 80's and if you've ever watched that episode from Futurama, than you know what the 80's were like.
+
+[–]MittensRmoney 1 point 8 hours ago 
+/r/thathappened
+
+[–]overtoke 14 points 18 hours ago 
+*so he would not be picked on
+
+[–]INeedChocolateMilk 26 points 16 hours ago 
+You obviously have no idea how vicious highschool girls can be.
+
+[–]jloy88 6 points 18 hours ago 
+That has got to be the most thug life picture I've ever seen of Bill ever.
+
+[–]apairofgaloshes 1 point 14 hours ago 
+I kinda love the pictures in this article. The ones not of Bill Gates are like just vaguely close enough to what the article is describing. High school girls? Here's some!
+
+[–]optifrog 6 points 16 hours ago 
+"In high school, he went dumpster diving to try and get source code." From the article linked. Then in 1976 he wrote this letter. http://www.digibarn.com/collections/newsletters/homebrew/V2_01/homebrew_V2_01_p2.jpg
+
+[–]PlebeianGentleman 6 points 15 hours ago 
+When I was sixteen, I worked in a small college kitchen and my boss handed off the scheduling to me for the next semester. I worked it out so my shift always overlapped with the cute girls.
+
+[–]pat_pat_pat 120 points 20 hours ago 
+Typical Bill Gate's programs: Broken by design to benefit the creator, half-assing the thing they are allegedly doing.
+
+[–]not_better 58 points 14 hours ago 
+Yeah, thank GOD his programs were SO broken that it ushered humankind into an incredibly outstanding information era. By chance all the other cheap, perfectly designed and bugless open-ended OS' were there to save us.
+
+[–]brickmack 4 points 11 hours ago 
+I think you're somehow confusing Bill Gates with Linus Torvalds. An easy mistake to make I know, they're both old slightly assholish white men, but Linus is a bit fatter and much more Finnish.
+
+[–]crozone 6 points 6 hours ago 
+both old slightly assholish white men
+I don't think it's quite correct to put Bill Gates in the same league of asshole as Linus.
+
+[–]OrShUnderscore 2 points 3 hours ago 
+fuckin love bill right now. before he was an asshole because of his "aggressive" business, but now? The man us a saint! philanthropy, research, scholarships ( I believe) and more but bite under the name is his company.
+Linus is an asshole. I love him, but he's an asshole. Is it funny? At times. But are they in the same league? No.
+
+[–]JohnMiltonJamesJoyce [score hidden] 35 minutes ago 
+Why is Linus an asshole? I honestly don't know shot about him beyond his name
+
+[–]crozone [score hidden] 8 minutes ago 
+He has a reputation for being less than friendly on mailing lists to people whom he doesn't care for very much and who submit bad patches.
+On the other hand, he cares deeply about the Linux kernel and won't let anything get it the way of code quality, and is very much a "no bullshit" kind of guy.
+
+[–]Axotl 4 points 7 hours ago 
+His fans are a lot more insufferable too
+
+[–]LvS -1 points 13 hours ago 
+The Internet would not have happened without Netscape Navigator and LAMP. Microsoft was rather famous for betting against the Internet.
+
+[–]Garrosh 1 point 5 hours ago 
+Before Netscape there was Mosaic. In fact, the original Internet Explorer was based on it. And the first web server ran on NeXTSTEP, an OS based on BSD.
+
+[–]not_better 1 point 2 hours ago 
+The "information era" started way before the internet ever took off. Microsoft was already famous for being the #1 choice of OS and office software about a decade before Netscape became known and used at large.
+
+[–]LvS 1 point 2 hours ago 
+Yes. If Microsoft had had their way, we'd still be using Office and Encarta on computers that aren't networked.
+
+[–]not_better 1 point 2 hours ago 
+You seem to ignore the fact that Microsoft DID have their way and are still leader in office productivity software, including online computing, sharing across networks and just about every modern online feature you can think of.
+It started in the early 90's with networked OS'(Windows for workgroups), file/document sharing, server OS' (Windows NT 3.1, 1993), domains... in what world do you live in that MS wanted the computing world to be offline?
+Please back your claim, I'd really like to know about this "offline" way of MS doing things.
+
+[–]LvS 1 point 2 hours ago 
+Here's your sources.
+And nobody back then ran Microsoft software for anything networking. It was all Novell Netware.
+Microsoft included just enough code so they could mark the "network-ready" checkbox. Heck, NT 3.1 didn't even contain a TCP/IP stack.
+
+[–]not_better 1 point 1 hour ago 
+From the Windows NT 3.1 wiki : "Designed as a networking operating system, Windows NT 3.1 supports multiple network protocols. Besides IPX/SPX and NetBEUI, the TCP/IP protocol is supported allowing access to the Internet"
+Source listed in wiki.
+Are you for real? Beside the fact that Novell was very popular, plenty of people used MS software for networking, my then employer included.
+So what you are saying is : -MS would have wanted the world to be offline (not right) -Ok then, it was networked but not much. (not right) -Well, it couldn't even use TCP/IP (that wasn't popular then) (not right)
+Here's a quote from your source : "After the book was written, but before it hit bookstores, Gates recognized that the Internet was gaining critical mass, and on December 7, 1995 — just weeks after the release of the book — he redirected Microsoft to become an Internet-focused company; in retrospect he had "vastly underestimated how important and how quickly the internet would come to prominence".
+So, an internet-focused company, that supports MANY types of network, creates domain standards still widely used today and is still innovating at every turn, is focused on offline Office and Encarta?
+
+[–]LvS 1 point 1 hour ago 
+You're aware that the book came out after Windows 95 was already released, right?
+And you're right, NT 3.1 contained a TCP implementation. One that didn't work and that nobody used. And then you had to find (or hope some software shipped with) a proper Winsock implementation because that was what everybody was using. But yes, it was good enough to mark the checkbox and apparently get a mention on Wikipedia.
+With Windows 98 Microsoft was serious about the Internet. They still hadn't understood it (did anyone actually use Active Desktop?) but they were now trying hard to bully Novell and Netscape out of the market with their proprietary extensions to HTML, most famously ActiveX controls.
+And after they had managed to do that, the web browser world came to a standstill and no innovation happened (which allowed Flash to gain a foothold) for quite a long time.
+Applauding Microsoft for the Internet is like applauding the US for world peace: It's correct as far as written history is concerned.
+
+[–]not_better [score hidden] 49 minutes ago 
+Applauding Microsoft for the Internet
+Applauding Microsoft for the Internet is ridicule and stupid. To ignore the fact that it was Microsoft, with all of their previous OS and software, that put modern computers into the homes and business of just about everyone is stupid too.
+You're quick to bash Microsoft for being (mildly)late for a network protocol, yet fail to mention what was the better alternative back then.
+Was it Novell, that ran on DOS? MacOS that wasn't better networked and magnitudes more expensive? Maybe a UNIX variant with all of its user-friendliness?
+Microsoft wasn't serious about the internet in 95 because the internet wasn't big in 1995. TCP/IP stacks, appropriate dialers and competent software to network were available and used on Windows 3.1, Windows 95 and everything thereafter. I've installed all of these solutions on those OS when the Internet took off for real, and Windows never failed to provide an appropriate platform to make it work, quite reliably for the time too.
+On what OS were YOU using a GUI, TCP/IP and the internet before 1995 to despise Windows so much?
+Windows (an operating system) has just about nothing to do with the advent of the internet. The fact that a boatload of people already had computers (+90% DOS and Windows) made using the Internet popular and possible for everyone.
+
+[–]crozone 0 points 6 hours ago 
+Is this extreme sarcasm? Please let this be sarcasm.
+
+[–]Slenderauss 3 points 10 hours ago 
+What else are you referring to? Most versions of Windows were quite stable and well programmed.
+
+[–][deleted] 17 hours ago 
+[deleted]
+[–]geekworking 3 points 19 hours ago 
+We just took typing to get in a room full of girls.
+
+[–]Joetato 1 point 15 hours ago 
+My high school required everyone to take typing. I ended up in a class with a normal mix of boys and girls. :/
+And, also, a teacher who like to just call out random letters for us to type, which was sort of annoying.
+
+[–]4look4rd 2 points 15 hours ago 
+I honestly think typing was the best class I took in middle school. I went from 24wpm to 40+. Today im at 80 without trying and I could peobably break 100 with effort and a good keyboard.
+
+[–]kenlubin 1 point 14 hours ago 
+My wpm on speed typing tests is in the high 70s and I hunt and peck with my right hand.
+
+[–]Willie_Main[🍰] 1 point 14 hours ago 
+Typing is definitely a fantastic skill. I teach English as a second language to adults. Some of the older ones, even though they are wildly successful, in their field don't have a clue how to type or text. I've been thinking about starting a typing class.
+
+[–]lucky_ducker 3 points 16 hours ago 
+This boy, he's going places.
+
+[–]Chunky1391 3 points 16 hours ago 
+Bill-d gate-s around these hoes
+
+[–][deleted] 3 points 15 hours ago 
+There's also a story of how he stole Mark Cuban's girl during a Microsoft vendor's convention.
+
+[–]redditaroni 3 points 15 hours ago 
+HACK THE PLANET!!!
+
+[–]ka0t1k 3 points 15 hours ago 
+Why is the thumbnail a pic of stephen hawking?
+
+[–]bendigedigdyl 12 points 16 hours ago 
+So he's just a smart creeper?
+
+[–]TeamRedundancyTeam 14 points 14 hours ago 
+Man, the qualifications to be a creeper are very small these days.
+
+[–]Morocco_Bama 1 point 14 hours ago 
+I can see you from here.
+
+[–]jayjohnbert 0 points 13 hours ago 
+Any guy trying way too hard to be around women is a creeper, especially if he feels a need to force the issue due to being sexually undesirable. Been that way for a while. It is known.
+
+[–]TeamRedundancyTeam 1 point 13 hours ago 
+What does "trying way too hard" mean, then? He might not have spent much effort on the part that increased the number of women in his classes at all.
+If this makes him a creeper, then most high school students are creepers.
+
+[–]jayjohnbert -1 points 12 hours ago 
+"Boys will be boys" is a terrible justification for sexually predatory behavior. Quite shameful that it's still such a common one in the 21st century.
+
+[–]drewdie1st 0 points 12 hours ago 
+For sure
+
+[–]KwebbelkopMOD 4 points 16 hours ago 
+I swear to God, I see this on the front page every 1-2 months.
+
+[–]Bairy_Halls 5 points 18 hours ago 
+Wait a few days, you'll 'TIL' it again, and again, and again, and again.....
+
+[–]rossagessausage 2 points 15 hours ago 
+Pimping aint easy - it's very technical apparently.
+
+[–]LeftLegCemetary 2 points 15 hours ago 
+I've seen this on TIL at least 20 in the past two years or so.
+I know, I'm cool as shit.
+
+[–]Geleemann 2 points 15 hours ago 
+Repost. Fuck you OP
+
+[–]wickedplayer494 1 point 15 hours ago 
+If you're going to fling insults at the OP, then you may as well link to an earlier post.
+
+[–]Striaton 2 points 15 hours ago 
+I wonder if anything actually came out of this.
+
+[–]I_dont_like_you_much 2 points 14 hours ago 
+I make the schedule for my fantasy football league.
+I'm thinking about setting the schedule late next year (after the draft) so I can match their starting QBs bye weeks to when they play me.
+A trophy will come of this.
+
+[–]Striaton 1 point 13 hours ago 
+lol
+
+[–]divrekku 2 points 15 hours ago 
+Niiiiiice
+
+[–]ZimbaZumba 2 points 14 hours ago* 
+Calling bullshit. This is just another myth creation piece put out by Gates' PR operation. He had absolutely no idea what to do with girls and probably still does not. He was probably terrified of them.
+Since when are seats assigned in classes anyway?
+
+[–]uptheneck 2 points 14 hours ago 
+Zuckerberg was equally motivated by pussy.
+
+[–]iced_hero 2 points 14 hours ago 
+Still the most savage to ever live
+
+[–]the_leprechauns_anus 2 points 14 hours ago 
+OH it did seating charts too, how smart!
+
+[–]PM_ME_YOUR_REFUGEES 2 points 14 hours ago 
+This guy fucks.
+
+[–]menuiserie 2 points 14 hours ago 
+Play on playa.
+
+[–]asylum117 2 points 14 hours ago 
+And those girls are probably pissed now that they rejected him
+
+[–]giansolcia 2 points 13 hours ago 
+THUG LIFE
+
+[–]forestmystic 2 points 13 hours ago 
+Bill Gates does not seem like a fuck boy, though. More like a kind and gentle feminine person- that also likes girls- a lesbian, of sorts-
+perhaps I should stop talking.
+
+[–]Brillegeit 2 points 13 hours ago 
+Bill Gates doing unethical stuff with computers for his own gain? That doesn't sound like him at all.
+
+[–]TheIranianAtheist 2 points 9 hours ago 
+He also wrote a new program to repost this every few weeks on Reddit.
+
+[–]CaDoran 6 points 20 hours ago 
+That nerd has more game than every other nerd on the planet combined
+
+[–]Vredkat 3 points 16 hours ago 
+Doesn't he usually hack it when this gets posted?
+
+[–]ixfd64 1 point 15 hours ago 
+This was actually my first time seeing it.
+
+[–]Valen_the_Dovahkiin 3 points 16 hours ago 
+I love how someone sat through an old 60 Minutes interview looking for the most unflattering still of Bill Gates that they could find.
+
+[–]ayylmaotho 3 points 17 hours ago 
+can we not post this every week?
+
+[–]Tossaway0987654321 1 point 17 hours ago 
+This is the first time I've seen it after a few years on Reddit. Reposts are good, reposts are life.
+
+[–]ProcsMO 4 points 20 hours ago 
+I feel like /r/thuglife needs to know about this...
+
+[–]TheCakeBear 3 points 20 hours ago 
+Bill Gates killing the game. His swag is radiating in that picture.
+
+[–]FatSherpa 3 points 18 hours ago 
+He still needed a billion dollars before he got laid.
+
+[–]nepguy25 2 points 15 hours ago* 
+bash/csh
+
+set students = readcsv($studentslist)
+foreach(student)
+if $student != "Bill Gates"
+set seat = rand*30
+echo $stduent $seat > list
+if $student == "Bill Gates"
+set seat_hottie = grep "Hottie" $list | awk '{print $2}'
+set seat_for_bill = $seat_hottie +1
+endif
+
+[–]WorldBFree 2 points 16 hours ago 
+creep
+
+[–]Bloq 1 point 17 hours ago 
+What a lad
+
+[–]kevinmccallistar 1 point 16 hours ago 
+Picking up chicks, IT'S SCIENCE!
+
+[–]Robbyrobbb 1 point 16 hours ago 
+I don't believe half of these. He hacked a plane in the air and made it come back? Come on...
+
+[–]jfong86 2 points 15 hours ago 
+No, it was leaving the terminal. This was probably back in the 70s when there was zero security.
+
+[–]Edabite 1 point 16 hours ago 
+With direction and MAGNITUDE!
+
+[–]damaged_but_whole 1 point 16 hours ago 
+he's a regular Ferris Bueller.
+
+[–]screenfan 1 point 15 hours ago 
+time to arrange some seats.
+
+[–]axechamp75 1 point 15 hours ago 
+Thumbnail looks like Rick Moranis
+
+[–]Mentioned_Videos 1 point 15 hours ago 
+Videos in this thread:
+Watch Playlist ▶
+VIDEO	COMMENT
+Jumping over a chair like a gangster (Bill Gates)	12 - Damn it feels good to be a gangster
+15234-jumping-over-a -chair-like-a-gangst er-bill-gates	1 - Damn it feels good to be a gangsta.
+NCIS 2 IDIOTS 1 KEYBOARD	1 - Like this?
+I'm a bot working hard to help Redditors find related videos to watch.
+Info | Chrome Extension
+
+[–]green_meklar 1 point 15 hours ago 
+The first and last time programming ability ever improved somebody's chances with women.
+
+[–]TurretBot 1 point 14 hours ago 
+did it really improve them though
+
+[–]the_internal 1 point 15 hours ago 
+Don't let the glasses fool you.
+
+[–]NotEnoughDuck 1 point 15 hours ago 
+National Lampoon presents: Bill Gates
+
+[–]clybourn 1 point 15 hours ago 
+He invented the need for safe spaces in schools. Thanks, bro.
+
+[–]Overmostheads 1 point 15 hours ago 
+He couldn't look more retarded in that picture
+
+[–]LeylandTiger 1 point 15 hours ago 
+this again??
+
+[–]r00t1 1 point 15 hours ago 
+And - even after gaming the system he got no play until he made his first billion
+
+[–]DataDrivenDominance 1 point 15 hours ago 
+RAPE!
+
+[–]THE__SHITABYSS 1 point 15 hours ago 
+Pussy hack.
+
+[–]RRRIIICKBRUISERRR 1 point 15 hours ago 
+Novice coder here learning java:
+System.out.print("Nice Thumbnail.");
+
+[–]banditswalker 1 point 15 hours ago 
+They set up assigned seating
+
+[–]archuate 1 point 15 hours ago 
+How many times can one person read a piece of information.
+
+[–][deleted] 15 hours ago 
+[deleted]
+[–]tiberiusjeffersmith 1 point 15 hours ago 
+Doesn't sound like he's making a safe space.
+
+[–]st_michael 1 point 15 hours ago 
+Did it work though?
+
+[–]Hikerbiker85 1 point 15 hours ago 
+Read the stuff about him in the book "Outliers". Very interesting stuff about his time at school.
+
+[–]IForgotAboutDre 1 point 15 hours ago 
+To not talk to them
+
+[–]BoopsAndSnuggles 1 point 15 hours ago 
+Thug life
+
+[–]bad-friend-Brendan 1 point 15 hours ago 
+OH BILL!!!
+
+[–]P15T0L_WH1PP3D 1 point 15 hours ago 
+Creepy, no?
+
+[–]CORRECTION_MADAM 1 point 15 hours ago 
+That's a shit title, OP. But it does get people to click the link.
+
+[–]Netprincess 1 point 15 hours ago 
+Then he stole geoworks and the rest was history.
+
+[–]Xplosionation 1 point 15 hours ago 
+As someone that goes to this school now. I wish I could've seen the look on my principals face then. (Same guy)
+
+[–]shiddabrik 1 point 15 hours ago 
+That thumbnail goes perfect with the title.
+ayyyyyyy
+
+[–]shas_o_kais 1 point 15 hours ago 
+Like a boss.
+
+[–]theBuhler3 1 point 14 hours ago 
+Paul Allen also went to a party school (Wash. St. U) and was in a frat, now that frat is the nicest on the row, because Paul Allen poured money into it later (PKT)
+
+[–]midnightauro 1 point 14 hours ago 
+This just in, young rich man spends formative years having a fucking blast.
+(On the other hand, I'm jealous of the water skiing bit. I fucked my knee up and 3 weeks later I was still trying to hop to the bathroom...)
+
+[–]jrm2003 1 point 14 hours ago 
+Just goes to prove my theory that the only difference between being perceived as creepy/asinine and perceived as suave/brilliant is how cleverly you go about it.
+
+[–]ThatTaiwanese 1 point 14 hours ago 
+AKA Microsoft XPimp
+
+[–]ValveCantCount 1 point 14 hours ago 
+-(people[])fixSeatingArray:(people[])seatingArray{
+    int found = 0
+    person people[2];
+    people[0] = 0;
+    people[1] = 1;
+
+    for(int x = 0; found<2; x++){
+        if(seatingArray[x].isFemale){
+            people[found] = x;
+            found++;
+        }
+    }
+    person buffer = seatingArray[me-1];
+    seatingArray[me-1] = seatingArray[people[0]];
+    seatingArray[people[0]] = buffer;
+
+    buffer = seatingArray[me+1];
+    seatingArray[me+1] = seatingArray[people[1]];
+    seatingArray[people[1]] = buffer;
+}
+
+[–]CreamyGoodnss 1 point 14 hours ago 
+Looks like SOMEBODY doesn't believe in no-win scenarios...
+
+[–]olfitz 1 point 14 hours ago 
+And he still couldn't score.
+
+[–]Sackyhack 1 point 14 hours ago 
+10 Crazy Stories About Bill Gates From Paul Allen's New Book
+He once ate roast chicken with a spoon
+Seriously?
+
+[–]ropeytwo 1 point 14 hours ago 
+I know, right? I almost couldn't believe it. What a fucking legend.
+
+[–]Slatters-AU 1 point 14 hours ago 
+Trend setter for sure. I mean it's likely there was JUST NO MORE FORKS LEFT.
+
+[–]AJThePwnapple 1 point 14 hours ago 
+wait am i missing something, why does everyone hate bill gates again?
+
+[–]Dirk-Killington 1 point 14 hours ago 
+Beware. Nerds below.
+
+[–]free_okinawa 1 point 14 hours ago 
+When Bill Gates did it. It is called cool. When I do it, school calls FBI and it called it hacking. When China did it, we called it act of aggression. It all depends who you are.
+
+[–]NowFreeToMaim 1 point 14 hours ago 
+Unless he had game. Doesn't matter how many bitches he had around him. I'm guessing he didn't...
+
+[–]SKINNYRIPPED 1 point 14 hours ago 
+Slick
+
+[–]Woodshadow 1 point 14 hours ago 
+I used to do the seating charts in a few of my classes and sat behind the hot girl who's thong was always just hanging out
+
+[–]allsortsashit 1 point 14 hours ago 
+That image with the article is so very weird sciencey. I like it!
+
+[–]drunkzombie420 1 point 14 hours ago 
+Bill gates is a G!
+
+[–]AoE-Priest 1 point 14 hours ago 
+Bill wanted some of that fine teenage tittay
+
+[–]HaywoodJablomey 1 point 14 hours ago 
+One of TIM's favorite reports...
+
+[–]FlametopFred 1 point 14 hours ago 
+Everything about computers, software and the Internet has been ethically corrupt since day one. And hence the world today.
+
+[–]Nine_Gates 1 point 14 hours ago 
+He also wrote a restaurant reservation program, and made it deny his co-founder's reservations.
+
+[–]idontsleepanymore 1 point 14 hours ago 
+...and that's how Bill met Melinda. And Martha. And Missy. And Marilyn. And Mertrude. And Mrendolyn. And Mafflesberger. And Mettlejerble. It was an English class- they were clearly exchange students.
+
+[–]Brook420 1 point 14 hours ago 
+And this is why Steve Jobs never had anything on Bill Gates.
+
+[–]_brodre 1 point 14 hours ago 
+he also used to jump over chairs ( ͡° ͜ʖ ͡°)
+
+[–]amifunnyyet 1 point 14 hours ago 
+Fucking Paul Allen...
+
+[–]roarkish 1 point 14 hours ago 
+That thumbnail is perfect.
+
+[–]Thegreatcandyhuman 1 point 14 hours ago 
+Just like all of his new products, his idea, crashed and burned.
+
+[–]gokuudo 1 point 14 hours ago 
+I don't believe this.
+
+[–]84awkm 1 point 14 hours ago 
+Feminists will be outraged at this.
+
+[–]nBoots 1 point 14 hours ago 
+This isn't even true, and has been discredited every other time this has been posted.
+
+[–]Keith_Creeper 1 point 14 hours ago 
+My brotha from anotha motha
+
+[–]Jyiiga 1 point 14 hours ago 
+You son of a...
+
+[–]lifewontwait86 1 point 14 hours ago 
+Too bad he could never get it up. I guess he was Microsoft.
+
+[–]Sherri26 1 point 14 hours ago 
+Gotta use what you got!
+
+[–]iebarnett51 1 point 14 hours ago 
+Perfect thumbnail picture
+
+[–]NoxDominus 1 point 14 hours ago 
+Back in the day my employer (a medium/large company) decided that time clocks would be a good idea for us, computer people. Even worse, they would not pay overtime, but managers would give you shit for the smallest things.
+I was put in charge of the system that copied data from the branch offices to headquarters (yay to compressed files and uucp). One day I discovered that the compressed text files generated by the time clocks for all employees was being copied by my system.
+I was praised for my punctuality from that point on until I left the company a year and a half later.
+
+[–]Trazac 1 point 13 hours ago 
+Actually, Bill Gates's whole story is awesomely fascinating.
+Really, in most people's minds he's this crazy smart computer god, but when it comes down to it he was a determined yet privileged and lucky individual.
+
+[–]Grammar_misake 1 point 13 hours ago 
+Hey, how you doin? Heavy breathing intensifies
+
+[–]KedViper 1 point 13 hours ago 
+Now, I just feel inadequate. He might not be the best looking guy but he used his brains to compensate. I'm not the best looking guy and I haven't done anything to compensate lol
+
+[–]SubSoldiers 1 point 13 hours ago 
+Story goes that he almost got it in with a few of the girls. However, after unzipping his pants they quickly found out the meaning behind "Microsoft".
+
+[–]FatMan8Pack 1 point 13 hours ago 
+i knew this for so long lol
+
+[–]finalzone1991 1 point 13 hours ago 
+Holy crud. I go to school with this one kid that looks like Bill Gates in that photo. I'm being dead serious. Wow.
+
+[–]fsocieties 1 point 13 hours ago 
+Bill Gates stole Mark Cuban's girls.
+http://www.tmz.com/videos/0_6jtt7i3q/
+
+[–]parodixicalreaction 1 point 13 hours ago 
+THIS GUY FUCKS
+
+[–]BowlOfDix 1 point 13 hours ago 
+No he doesn't
+
+[–]sunflowerfly 1 point 13 hours ago 
+Gates was a real geek, and ran the company well. Ballmer was a salesman that, while making tons of money, ran MS into the ground.
+
+[–]isaelsky21 1 point 13 hours ago 
+This.
+
+[–]tamrix 1 point 13 hours ago 
+Who actually has assigned seats at school?
+
+[–]BugLamentations 1 point 13 hours ago 
+Creeper OS
+
+[–]mango69 1 point 13 hours ago 
+Microsoft was born as a means to get women Facebook was born as a means to rate women
+I'm starting to think the world revolves around sex..
+
+[–]GosuGian 1 point 13 hours ago 
+LMAO That pic
+
+[–]cryfest 1 point 13 hours ago 
+This is the 10th time ive seen this post on Reddit.
+
+[–]grandaddy7 1 point 13 hours ago 
+I was very surprised to not find the video of him jumping over the chair with OG gangsta playing as the top comment
+
+[–]jimmyjammyjayso 1 point 13 hours ago 
+This must be at least the 4th time this TIL has made the front page..
+
+[–]Cult_of_Pineal 1 point 13 hours ago 
+Yawn
+
+[–]NinjaCorgi 1 point 13 hours ago 
+He's a smart guy.
+
+[–]Throwaway528283222 1 point 13 hours ago 
+Creepy as hell.
+
+[–]CamNM1991 1 point 13 hours ago 
+PERV!
+
+[–]Charlesvania 1 point 13 hours ago 
+Haven't seen this one in about a week, good job TIL
+
+[–]Endolithic 1 point 13 hours ago 
+What a thug.
+
+[–]BootlessTuna 1 point 13 hours ago 
+muh boy
+
+[–]Wingman4l7 1 point 13 hours ago 
+Still gotta talk to 'em, Bill ;)
+
+[–]Redbread42 1 point 13 hours ago 
+Nice.
+
+[–]Hardrainfalling 1 point 12 hours ago 
+I'm real tired of this submission.
+
+[–]ishbu789 1 point 12 hours ago 
+And his wife is ugly so a fat lot it did him.
+
+[–]wpbart19 1 point 12 hours ago 
+People have assigned seats in college?
+
+[–]ownage99988 1 point 12 hours ago 
+Atta boy bill
+
+[–]MISREADS_YOUR_POSTS 1 point 12 hours ago 
+not sure if irrelevant or relevant thumbnail
+
+[–]old_to_me_downvoter 1 point 12 hours ago 
+What I find more amazing in stories like this is that the school actually gave the student's software a chance.
+I know that "times have changed" but when I was in High School in the late 90's, I would have been laughed out of the office, or put on some "Known Hacker" list had I come to the school with any software I had written.
+So maybe instead of spending millions on "enterprise" software, you give students a chance to get some real world experience by writing some trivial stuff for schools. (Maybe they do that now a days, but they sure didn't when I was in school)
+
+[–]ocean365 1 point 12 hours ago 
+I love the thumbnail picture to this
+
+[–]saciavosmia 1 point 12 hours ago 
+We knowwwwwww
+
+[–]lolredditftw 1 point 11 hours ago 
+Hey baby. You're not gonna believe this, but someday the phrase "richer than Bill Gates" will be a thing. You want on this, trust me.
+
+[–]CommentExMachina 1 point 11 hours ago 
+Nice.
+
+[–]Handicapreaderr 1 point 11 hours ago 
+I really Love Bill Gates and his vision about education and health sector. Thanks Bil
+
+[–]chadwarden1337 1 point 10 hours ago 
+and the think bill gates was a beta...
+
+[–]Nick12506 1 point 10 hours ago 
+Literally only 1 main comment in this thread, and I heard on Reddit this was fake..
+
+[–]PunkPenguinCB 1 point 10 hours ago 
+Play on, playa
+
+[–]Nitero 1 point 10 hours ago 
+That's a Busch league move Mondale!
+-current senators
+
+[–]naughtyl1000 1 point 10 hours ago 
+He was in class with Steve Buscemi, who went back to his old fire department on 9/11 when Leonardo Dicaprio cut his hand on the WTC but continued to do his scene.
+
+[–]Hunkmasterfresh 1 point 9 hours ago 
+Imagine if Bill Cosby did this!?
+
+[–]Cyrotek 1 point 8 hours ago 
+So, in the USA you can't choose with whom and where you sit in class?
+
+[–]murde1 1 point 8 hours ago 
+"He hijacked the control panel at an airport gate -- and got the plane to come back" Oh the good old days!
+
+[–]Viktorman 1 point 8 hours ago 
+M' crosoft
+
+[–]Lamantho 1 point 8 hours ago 
+Bill Gates, da real MVP
+
+[–]tiptoptap35 1 point 7 hours ago 
+What self respecting geek wouldn't do that?
+
+[–]BEHAVE_AND_BE_NICE 1 point 6 hours ago 
+The real TIL is that he is not named Bill... its just a nick name.
+
+[–]kippersmoker 1 point 6 hours ago 
+xerox parc were apparently prototyping this idea around the same time
+
+[–]clubkebrugje 1 point 6 hours ago 
+The winning program was a different way now.
+
+[–]Nemodin 1 point 5 hours ago 
+Well... of course.
+
+[–]harrylolman1 1 point 4 hours ago 
+Oh, this again? I see this every year...
+
+[–]sbingley22 1 point 4 hours ago 
+Based Bill
+
+[–]thebezet 1 point 3 hours ago 
+"He ate a roast chicken with a spoon."
+Wow. Crazy. /s
+rolls eyes
+
+[–]jakielim335 1 point 3 hours ago 
+This might be the most relevant thumbnail I've seen in a while.
+
+[–]HammerOfTheSlobs 1 point 2 hours ago 
+Yep.
+
+[–]karikosera 1 point 2 hours ago 
+The Leap Dave Williams episode of 30 Rock is the first thing I thought of.
+
+[–]vi_warshawski 1 point an hour ago 
+lol dweeb. he looks like a weak piece of trash so that's why even with all his billions he had to settle for his wife.
+
+[–]Do_You_Even_Repost 1 point 18 hours ago 
+wow havent seen this one op, nice OC repost
+
+[–]ascii122 1 point 19 hours ago 
+we wrote the report card/grading system as a project in computer science and put so many back doors in it. Mostly we'd just use a local copy to print off a card kids could bring home and show their parents. 5 bucks a pop
+
+[–]double_expressho 1 point 14 hours ago 
+This guy fucks.
+
+[–]arealllama -1 points 18 hours ago 
+Pretty sure he did this because he thought girls would be easier competition on a grading curve.
+
+[–]boeheim03 0 points 16 hours ago 
+yea, holy shit, we KNOW!
+
+[–]transparent_lfe 0 points 16 hours ago 
+What a perv. I like this.
+
+[–]hughmonstah 0 points 15 hours ago 
+And kids, that's how I met your mother.
+
+[–]brucepondo 0 points 15 hours ago 
+It's cool that he set web standards and competitors back for a solid decade. That's so cool that he did something to make up for his lack of humanity when he was young tho'.
+
+[–]BitterEmptyAndBitter 1 point 15 hours ago 
+It's cool that he also helped facilitate web 2.0 and advanced the game as well, but then again you're clearly nonbiased, lol https://en.wikipedia.org/wiki/XMLHttpRequest
+
+[–]The_Dead_See 0 points 15 hours ago 
+And Charlie Sheen thinks he is winning.
+
+[–]analbumcover7000 0 points 15 hours ago 
+Damn it feels good to be a gangsta.
+
+[–][deleted] 15 hours ago 
+[deleted]
+[–]leaffan4life 0 points 15 hours ago 
+Uhhhh what school has arranged seating plans? WTF did he edit? This story is bullshit
+
+[–]aarswft 3 points 15 hours ago 
+The article you were supposed to read says he would make the classes all female except him, not assign seats.
+
+[–]leaffan4life 1 point 14 hours ago 
+It's still uncorroborated bullshit
+
+[–]Dontmakemechoose2 0 points 14 hours ago 
+I took floral design in high school. I was the only dude in the class. No regrats.
+
+[–]IronOhki 0 points 14 hours ago 
+Yet, didn't get married until 1994.
+
+[–]AdamJefferson 0 points 14 hours ago 
+Bill Gates is an idiot then... He should have invented Facebook!!!
+
+[–]paiute 0 points 14 hours ago 
+Upper middle class kid takes an interest in computers. Steals a program. Lawyers up. Gets rich.
+Yeah, he programmed his way to the top. Whatever.
+
+[–]relaxok 1 point 14 hours ago 
+You make a valid point, but you don't get AS far with your company if that was all he did.
+
+[–]ThaDers 0 points 13 hours ago 
+And he talked to none of them
+
+[–]YSKB12 0 points 13 hours ago 
+What a creepy creep
+
+[–]iDontShift 0 points 6 hours ago 
+you guys circle jerk around this guy, but his greatest accomplishment was to screw everyone over so that windows ended up dominating, not with better product but with better marketing and subversive tactics that literally undermined others products via sabotage and outright theft.
+and now we all get to enjoy being exploited, and too many fools actually worship this man, that if we had more of him would really make the world suck.
+
+[–]WelcomeMachine -3 points 19 hours ago 
+Oh yeah, well how'd that work out for....never mind.
+
+[–]CharlesHaynes1 -10 points 20 hours ago 
+http://i.imgur.com/fFyTL0x.jpg
+
+[–]IconicVillain -11 points 16 hours ago 
+Fuck this misogynistic world we live in.
+
+[–]Justanotherjustin 1 point 14 hours ago 
+Ya! Fuck finding girls attractive!
+
+[–]sdawadfasfsaf -3 points 16 hours ago 
+You also learned that Bill Gates is control freak of the highest order.
+
+[–]King_TaTa 1 point 15 hours ago 
+Found Tim Cook

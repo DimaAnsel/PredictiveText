@@ -1,0 +1,20 @@
+[]===============  Help page for TreeEdit   ================[]
+||                                                          ||
+|| Valid commands are:                                      ||
+||   help (h)  : prints this help page                      ||
+||   load (l)  : loads the tree from the outside file       ||
+||     (creates clean file if necessary)                    ||
+||   save (s)  : saves the tree to the outside file         ||
+||     (overwrites any existing data)                       ||
+||   wipe (w)  : wipes the outside file to be a blank tree  ||
+||     (overwrites any existing data)                       ||
+||   exit (x)  : exits the TreeEdit program                 ||
+||   clear (c) : clears the current tree (not the file)     ||
+||                                                          ||
+||   read <file1> <file2> ... (r <file1> <file2> ... ) :    ||
+||     teaches the tree by reading <file1>, <file2>, ...    ||
+||     (ignores files that don't exist or are invalid)      ||
+||     -Example usage: read Alice.txt Journey.txt World.txt ||
+||                                                          ||
+||   For more information, refer to the documentation.      ||
+[]==========================================================[]
